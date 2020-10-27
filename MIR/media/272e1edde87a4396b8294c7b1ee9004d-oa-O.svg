@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1444" height="669">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="272e1edde87a4396b8294c7b1ee9004d-oa-1">
+   <rect height="34.45378" width="290.75631" y="430.15968" x="456.00001" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="34.45378" width="208.40337" y="490.66389" x="466.92438" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="272e1edde87a4396b8294c7b1ee9004d-oa-2">
+   <rect height="29.41177" width="237.81513" y="426.79834" x="1038.35297" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="26.05042" width="145.37815" y="492.34456" x="1080.36977" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="272e1edde87a4396b8294c7b1ee9004d-oa-3" height="70.58824" width="236.97479" y="546.96641" x="315.66388" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="272e1edde87a4396b8294c7b1ee9004d-oa-4" height="105.04202" width="255.46219" y="548.64708" x="595.49581" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="272e1edde87a4396b8294c7b1ee9004d-oa-5" height="213.44538" width="273.94958" y="93.18489" x="586.25212" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="272e1edde87a4396b8294c7b1ee9004d-oa-6" height="102.52101" width="260.50421" y="93.18489" x="876.16809" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="272e1edde87a4396b8294c7b1ee9004d-oa-7">
+   <g>
+    <rect height="309.2437" width="268.06723" y="97.38657" x="1160.20171" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <text transform="matrix(0.4280686974525451,0,0,1.0624639987945557,765.6927377283572,-5.811100646853445) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="357.05044" x="1224.90759" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">¿A que receptor se debe la falla endotelial?</text>
+   </g>
+   <text transform="matrix(0.671160876750946,0,0,1.0312319993972778,347.2027330379933,-5.639815891161561) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="208.94767" x="1413.5406" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">¿Que subunidad del ribosoma?</text>
+  </g>
+ </g>
+</svg>

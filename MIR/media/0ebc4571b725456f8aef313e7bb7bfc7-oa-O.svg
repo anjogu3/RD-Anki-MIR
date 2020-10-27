@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="524" height="385.99999999999994">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="0ebc4571b725456f8aef313e7bb7bfc7-oa-1" height="16.66667" width="213.46155" y="216.56413" x="163.17948" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="0ebc4571b725456f8aef313e7bb7bfc7-oa-2">
+   <rect height="14.74359" width="79.48718" y="196.05131" x="288.82051" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="14.74359" width="79.48718" y="196.05131" x="416.38462" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="0ebc4571b725456f8aef313e7bb7bfc7-oa-3">
+   <rect height="28.84616" width="93.58975" y="35.79489" x="159.33333" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="26.92308" width="69.23077" y="33.87181" x="287.53846" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25" width="55.12821" y="76.82053" x="300.35897" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="21.15385" width="55.76923" y="78.74361" x="178.5641" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="0ebc4571b725456f8aef313e7bb7bfc7-oa-4">
+   <rect height="24.35898" width="49.35898" y="115.9231" x="180.48717" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="20.51282" width="52.5641" y="117.20515" x="310.61538" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="23.07692" width="66.02564" y="151.82054" x="297.15385" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="24.35898" width="73.71795" y="154.38464" x="161.89743" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="19.23077" width="32.69231" y="121.69233" x="440.7436" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="16.66667" width="50.64103" y="155.02567" x="426.64103" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="0ebc4571b725456f8aef313e7bb7bfc7-oa-5" height="16.02564" width="87.82052" y="194.12823" x="165.74358" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="0ebc4571b725456f8aef313e7bb7bfc7-oa-6" height="14.10256" width="332.0513" y="243.48721" x="166.38461" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
