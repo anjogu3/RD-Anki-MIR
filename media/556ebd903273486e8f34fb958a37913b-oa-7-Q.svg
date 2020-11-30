@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1514" height="719">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <text font-weight="bold" id="svg_12" transform="matrix(0.5069216514646833,0,0,0.5148667004383327,387.0920148962908,56.581904501426855) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="-36.63026" x="-172.10797" stroke-width="0" fill="#ffffff">Edad, proporción frente a otros tumores y relacion en la infancia</text>
+  <text transform="matrix(0.629199206829071,0,0,0.70004802942276,460.84744828753173,38.29074374400079) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_3" y="5.6885" x="1450.72558" stroke-width="0" fill="#000000">Edad y relación con anticuerpos</text>
+  <rect id="svg_13" height="0" width="2.04342" y="20.71903" x="224.27158" stroke="#2D2D2D" fill="#ffffff"/>
+  <text id="svg_26" transform="matrix(0.9496642349689992,0,0,1.0373643045593157,432.09846916187166,-0.7305647503020509) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="67.59978" x="222.14796" stroke-width="0" fill="#000000">Edad</text>
+  <rect id="svg_27" height="0" width="2.04342" y="61.58748" x="265.14004" stroke="#2D2D2D" fill="#ffffff"/>
+  <text id="svg_30" transform="matrix(0.9496642349689992,0,0,1.0373643045593157,432.09846916187166,-0.7305647503020509) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="68.29041" x="792.47101" stroke-width="0" fill="#000000">Edad</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="98.61258" y="443.16212" id="svg_1" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">Calcificaciones</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  <rect id="556ebd903273486e8f34fb958a37913b-oa-7" height="104.21456" width="212.51596" y="357.88378" x="189.5334" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  
+  
+  
+  
+  
+  
+  
+  
+ </g>
+</svg>
