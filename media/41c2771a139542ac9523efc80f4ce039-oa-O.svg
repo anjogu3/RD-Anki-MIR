@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="520">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect stroke="#2D2D2D" id="41c2771a139542ac9523efc80f4ce039-oa-1" height="24.4898" width="53.06122" y="337.14285" x="150" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-2" height="24.4898" width="112.2449" y="363.67346" x="150" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-3" height="16.32653" width="97.95918" y="390.20407" x="143.87755" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-4" height="28.57143" width="83.67347" y="412.65305" x="164.28571" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-5" height="28.57143" width="91.83673" y="335.10203" x="501.02041" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  
+  
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-6" height="20.40816" width="112.2449" y="367.75509" x="492.85714" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-7" height="20.40816" width="108.16327" y="414.69387" x="494.89796" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-8" height="22.44898" width="97.95918" y="388.16326" x="488.77551" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="41c2771a139542ac9523efc80f4ce039-oa-9" height="24.4898" width="108.16327" y="437.14285" x="492.85714" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
