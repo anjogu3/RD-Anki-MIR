@@ -6,15 +6,15 @@
  <g>
   <title>Masks</title>
   
-  <rect id="f4d5c02882814fcb89b275f386fdaa4e-oa-2" height="31.66667" width="258.33334" y="112.66668" x="21.33329" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
   
   
-  
-  
-  
-  
-  
-  
+  <g id="f4d5c02882814fcb89b275f386fdaa4e-oa-2" class="qshape">
+   <rect stroke="#2D2D2D" fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="446.69709" y="152.92895" width="158.84096" height="28.33333" class="qshape"/>
+   <g class="qshape">
+    <rect fill="#FF7E7E" stroke="#2D2D2D" x="21.33329" y="110.63622" width="258.33334" height="31.66667" class="qshape"/>
+    <rect stroke="#2D2D2D" fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="449.09134" y="110.32319" width="197.35197" height="31.66667" class="qshape"/>
+   </g>
+  </g>
   
   
  </g>
