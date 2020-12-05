@@ -2,12 +2,15 @@
  <!-- Created with Image Occlusion Enhanced -->
  <g>
   <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_3" y="336.47828" x="199.73906" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Repetidas?</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_7" y="418.21741" x="209.30428" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Duración</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
   
   
-  <rect id="82d21f02c1d64b1883d602166f7d8d50-oa-3" height="92.72728" width="297.27274" y="111.18179" x="880.72735" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  <rect fill="#FF7E7E" stroke="#2D2D2D" x="880.72735" y="111.18179" width="297.27274" height="92.72728" id="82d21f02c1d64b1883d602166f7d8d50-oa-3" class="qshape"/>
+  
   
   
   

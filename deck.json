@@ -11279,7 +11279,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Indicaciones de administración de insulina de inicio en pacientes con Dx de DM2?",
-                        "pérdida importante de peso, nefrópata o hepatópata por imposibilidad de dar antidiabéticos orales.<div>hospitalizados</div><div><br /></div>"
+                        "pérdida importante de peso (&gt;10%)<div>nefrópata&nbsp;</div><div>hepatópata por imposibilidad de dar antidiabéticos orales.<div>hospitalizados</div><div><br></div></div>"
                     ],
                     "guid": "idNK6CQx.^",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
@@ -12455,7 +12455,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Que molécula protege al páncreas de la autodigestión y sobre que enzimas actua?",
-                        "SPINK1 sobre proteasas."
+                        "SPINK1 sobre proteasas.<div><br></div><div><br></div><div><br></div><div>\"<sub>Serine Peptidase Inhibitor Kazal Type 1,&nbsp;trypsin inhibitor, which is secreted from pancreatic acinar cells into pancreatic juice. It is thought to function in the prevention of trypsin-catalyzed premature activation of zymogens within the pancreas and the pancreatic duct. Mutations in this gene are associated with hereditary pancreatitis and tropical calcific pancreatitis.</sub>\"&nbsp;<a href=\"https://www.genecards.org/cgi-bin/carddisp.pl?gene=SPINK1&amp;keywords=SPINK1\"><sup>https://www.genecards.org/cgi-bin/carddisp.pl?gene=SPINK1&amp;keywords=SPINK1</sup></a></div>"
                     ],
                     "guid": "mB:hN-S:L1",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
@@ -17967,6 +17967,27 @@
                 "10ad0aebece647c49fec0e3a247a5205-ao-1-A.svg",
                 "10ad0aebece647c49fec0e3a247a5205-ao-1-Q.svg",
                 "10ad0aebece647c49fec0e3a247a5205-ao-O.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-1-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-1-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-2-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-2-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-3-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-3-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-4-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-4-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-5-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-5-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-6-A.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-6-Q.svg",
+                "33a5910a38a64671926097b5b4a4e6d0-ao-O.svg",
+                "3b1a945ff1644cfabfd77703726d578a-ao-1-A.svg",
+                "3b1a945ff1644cfabfd77703726d578a-ao-1-Q.svg",
+                "3b1a945ff1644cfabfd77703726d578a-ao-O.svg",
+                "3f0d6531e3ab48fc8de946bf2a04838f-ao-1-A.svg",
+                "3f0d6531e3ab48fc8de946bf2a04838f-ao-1-Q.svg",
+                "3f0d6531e3ab48fc8de946bf2a04838f-ao-2-A.svg",
+                "3f0d6531e3ab48fc8de946bf2a04838f-ao-2-Q.svg",
+                "3f0d6531e3ab48fc8de946bf2a04838f-ao-O.svg",
                 "41c2771a139542ac9523efc80f4ce039-oa-1-A.svg",
                 "41c2771a139542ac9523efc80f4ce039-oa-1-Q.svg",
                 "41c2771a139542ac9523efc80f4ce039-oa-2-A.svg",
@@ -17986,6 +18007,15 @@
                 "41c2771a139542ac9523efc80f4ce039-oa-9-A.svg",
                 "41c2771a139542ac9523efc80f4ce039-oa-9-Q.svg",
                 "41c2771a139542ac9523efc80f4ce039-oa-O.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-1-A.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-1-Q.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-2-A.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-2-Q.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-3-A.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-3-Q.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-4-A.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-4-Q.svg",
+                "47edaca5656e4e12b34098e00f376ab0-ao-O.svg",
                 "4a055153e8fd4e07b82b3358dd56ebd4-ao-1-A.svg",
                 "4a055153e8fd4e07b82b3358dd56ebd4-ao-1-Q.svg",
                 "4a055153e8fd4e07b82b3358dd56ebd4-ao-O.svg",
@@ -18002,6 +18032,26 @@
                 "4a10619394e84e55b99777d418747fb2-oa-6-A.svg",
                 "4a10619394e84e55b99777d418747fb2-oa-6-Q.svg",
                 "4a10619394e84e55b99777d418747fb2-oa-O.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-1-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-1-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-2-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-2-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-3-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-3-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-4-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-4-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-5-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-5-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-6-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-6-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-7-A.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-7-Q.svg",
+                "4ad48edfeeef47a7908410382417e04a-oa-O.svg",
+                "4e754440566e429dbd10e5089347454c-oa-1-A.svg",
+                "4e754440566e429dbd10e5089347454c-oa-1-Q.svg",
+                "4e754440566e429dbd10e5089347454c-oa-2-A.svg",
+                "4e754440566e429dbd10e5089347454c-oa-2-Q.svg",
+                "4e754440566e429dbd10e5089347454c-oa-O.svg",
                 "6c290a509136497e96335ed27c942d5b-oa-1-A.svg",
                 "6c290a509136497e96335ed27c942d5b-oa-1-Q.svg",
                 "6c290a509136497e96335ed27c942d5b-oa-2-A.svg",
@@ -18009,6 +18059,16 @@
                 "6c290a509136497e96335ed27c942d5b-oa-3-A.svg",
                 "6c290a509136497e96335ed27c942d5b-oa-3-Q.svg",
                 "6c290a509136497e96335ed27c942d5b-oa-O.svg",
+                "774a5993469244bf9617cdcfcf974d35-oa-1-A.svg",
+                "774a5993469244bf9617cdcfcf974d35-oa-1-Q.svg",
+                "774a5993469244bf9617cdcfcf974d35-oa-2-A.svg",
+                "774a5993469244bf9617cdcfcf974d35-oa-2-Q.svg",
+                "774a5993469244bf9617cdcfcf974d35-oa-O.svg",
+                "7e56dae8c3124245bd006ed1cc7dc4b4-oa-1-A.svg",
+                "7e56dae8c3124245bd006ed1cc7dc4b4-oa-1-Q.svg",
+                "7e56dae8c3124245bd006ed1cc7dc4b4-oa-2-A.svg",
+                "7e56dae8c3124245bd006ed1cc7dc4b4-oa-2-Q.svg",
+                "7e56dae8c3124245bd006ed1cc7dc4b4-oa-O.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-1-A.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-1-Q.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-2-A.svg",
@@ -18044,7 +18104,6 @@
                 "Screen Shot 2020-12-01 at 11.08.26 PM.png",
                 "Screen Shot 2020-12-01 at 11.09.27 PM.png",
                 "Screen Shot 2020-12-01 at 11.10.21 PM.png",
-                "Screen Shot 2020-12-01 at 11.14.27 PM.png",
                 "Screen Shot 2020-12-01 at 7.53.15 PM.png",
                 "Screen Shot 2020-12-01 at 8.28.23 PM.png",
                 "Screen Shot 2020-12-01 at 8.30.47 PM.png",
@@ -18069,6 +18128,20 @@
                 "d34b602898b1484aae5d21fd4f0accac-oa-4-A.svg",
                 "d34b602898b1484aae5d21fd4f0accac-oa-4-Q.svg",
                 "d34b602898b1484aae5d21fd4f0accac-oa-O.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-1-A.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-1-Q.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-2-A.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-2-Q.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-3-A.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-3-Q.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-4-A.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-4-Q.svg",
+                "daece30a842a483e81b184b55a6785ef-ao-O.svg",
+                "e249b99a062e449b84c1647627686787-oa-1-A.svg",
+                "e249b99a062e449b84c1647627686787-oa-1-Q.svg",
+                "e249b99a062e449b84c1647627686787-oa-2-A.svg",
+                "e249b99a062e449b84c1647627686787-oa-2-Q.svg",
+                "e249b99a062e449b84c1647627686787-oa-O.svg",
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-1-A.svg",
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-1-Q.svg",
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-2-A.svg",
@@ -18082,9 +18155,11 @@
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-9-A.svg",
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-9-Q.svg",
                 "f4d5c02882814fcb89b275f386fdaa4e-oa-O.svg",
-                "fa8657c53ce84230b33ede0f3e17a37b-oa-6-A.svg",
-                "fa8657c53ce84230b33ede0f3e17a37b-oa-6-Q.svg",
-                "fa8657c53ce84230b33ede0f3e17a37b-oa-O.svg",
+                "fd372e740b6b4452976d979e4820e29a-oa-1-A.svg",
+                "fd372e740b6b4452976d979e4820e29a-oa-1-Q.svg",
+                "fd372e740b6b4452976d979e4820e29a-oa-2-A.svg",
+                "fd372e740b6b4452976d979e4820e29a-oa-2-Q.svg",
+                "fd372e740b6b4452976d979e4820e29a-oa-O.svg",
                 "paste-11231339479041.jpg",
                 "paste-11325828759553.jpg",
                 "paste-12584254177481.jpg",
@@ -18098,7 +18173,18 @@
                 "paste-7301444403201.jpg",
                 "paste-7391638716417 (1).jpg",
                 "tmp2npojka_.png",
+                "tmp3f0_g5vu.png",
+                "tmp4fuucv_v.png",
+                "tmp8ot0zeu0.png",
+                "tmp93uc1gmw.png",
+                "tmp9gvaqkoq.png",
+                "tmpfdwdacev.png",
+                "tmpfq10tu6m.png",
+                "tmpgd8jte0i.png",
+                "tmpgo9fmtr0.png",
+                "tmpl6mcl0_j.png",
                 "tmpmvf5ijn4.png",
+                "tmpn7saxl_9.png",
                 "tmptpcqvo3f.png"
             ],
             "mid": 1603216541133,
@@ -22181,7 +22267,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Tratamiento para SMA en adolescentes sin alteración orgánica y que presenten ciclos ovulatorios:&nbsp;",
+                        "Tratamiento para Sangrado Menstrual Abundante en adolescentes sin alteración orgánica y que presenten ciclos ovulatorios:&nbsp;",
                         "AINE y ácido tranexámico"
                     ],
                     "guid": "E;_*EJ9]{F",
@@ -22202,7 +22288,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Abordaje de pólipos endometriales en mujeres postmenopáusicas:",
-                        "<div>\n<div>\n<div>\n<div>\n<ul>\n<li>\n<div>Se recomienda la extirpación de todos los pólipos endometriales en estas mujeres.&nbsp;</div>\n</li>\n</ul>\n</div>\n</div>\n</div></div>"
+                        "Se recomienda la extirpación de todos los pólipos endometriales en estas mujeres.&nbsp;"
                     ],
                     "guid": "Jm:PE[&i2b",
                     "note_model_uuid": "5bd9364e-344d-11eb-a941-c4b301d4ab75",
@@ -22272,7 +22358,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Tratamiento médico de elección en pacientes con miomatosis uterina sintomática:",
-                        "<b>Acetato de uripristal 5mg</b><div>Antifibrinolítico/ACO</div><div>DIU-LNG</div>"
+                        "<b>Acetato de uripristal 5mg</b><div>Antifibrinolítico (Traxenamico) /Anticonceptivo Combinado Oral</div><div>DIU-LNG (Liberador de Levonogestrel)</div>"
                     ],
                     "guid": "lXGWc)fX%T",
                     "note_model_uuid": "5bd9364e-344d-11eb-a941-c4b301d4ab75",
@@ -22563,29 +22649,10 @@
                     "__type__": "Note",
                     "fields": [
                         "Tratamiento médico de adenocarcinoma de endometrio:&nbsp;",
-                        "Gestágenos."
+                        "Anticonceptivo tipo: Gestágenos."
                     ],
                     "guid": "OC#28luFm.",
                     "note_model_uuid": "5bd9364e-344d-11eb-a941-c4b301d4ab75",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "fa8657c53ce84230b33ede0f3e17a37b-oa-6",
-                        " Estadificación quirúrgica del cáncer de endometrio tipo II:",
-                        "<img src=\"Screen Shot 2020-12-01 at 11.14.27 PM.png\" />",
-                        "<img src=\"fa8657c53ce84230b33ede0f3e17a37b-oa-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"fa8657c53ce84230b33ede0f3e17a37b-oa-6-A.svg\" />",
-                        "<img src=\"fa8657c53ce84230b33ede0f3e17a37b-oa-O.svg\" />"
-                    ],
-                    "guid": "F^AOrrww2l",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": []
                 },
                 {
@@ -22775,6 +22842,662 @@
                         "<img src=\"6c290a509136497e96335ed27c942d5b-oa-O.svg\" />"
                     ],
                     "guid": "b&`.$?:@#w",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "3b1a945ff1644cfabfd77703726d578a-ao-1",
+                        "Criterios de Amsel para vaginosis bacteriana (3 de 4)",
+                        "<img src=\"tmpfdwdacev.png\" />",
+                        "<img src=\"3b1a945ff1644cfabfd77703726d578a-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"3b1a945ff1644cfabfd77703726d578a-ao-1-A.svg\" />",
+                        "<img src=\"3b1a945ff1644cfabfd77703726d578a-ao-O.svg\" />"
+                    ],
+                    "guid": "DJ>,fhKRgs",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e754440566e429dbd10e5089347454c-oa-1",
+                        "Criterios de Amsel para vaginosis bacteriana (3 de 4)",
+                        "<img src=\"tmpfq10tu6m.png\" />",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-1-A.svg\" />",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-O.svg\" />"
+                    ],
+                    "guid": "G:],1Tyls~",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4e754440566e429dbd10e5089347454c-oa-2",
+                        "Criterios de Amsel para vaginosis bacteriana (3 de 4)",
+                        "<img src=\"tmpfq10tu6m.png\" />",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-2-A.svg\" />",
+                        "<img src=\"4e754440566e429dbd10e5089347454c-oa-O.svg\" />"
+                    ],
+                    "guid": "Oysad[_k(x",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-1",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-1-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "M%Df?Le`_3",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-2",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-2-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "FVX6tyl$.d",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-3",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-3-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "Fc9{25o)Yv",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-4",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-4-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "F?wYxkz6FX",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-5",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-5-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "fbjR@CMQLt",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "33a5910a38a64671926097b5b4a4e6d0-ao-6",
+                        "Cuadro resumen",
+                        "<img src=\"tmpgd8jte0i.png\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-6-A.svg\" />",
+                        "<img src=\"33a5910a38a64671926097b5b4a4e6d0-ao-O.svg\" />"
+                    ],
+                    "guid": "M[l)~TomeO",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "3f0d6531e3ab48fc8de946bf2a04838f-ao-1",
+                        "Criterios diagnósticos de la EIP (CDC, 2002) para empezar tratamiento empírico de Enf. Pélvica Inflamatoria",
+                        "<img src=\"tmpn7saxl_9.png\" />",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-1-A.svg\" />",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-O.svg\" />"
+                    ],
+                    "guid": "OfLOJAWkK+",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "3f0d6531e3ab48fc8de946bf2a04838f-ao-2",
+                        "Criterios diagnósticos de la EIP (CDC, 2002) para empezar tratamiento empírico de Enf. Pélvica Inflamatoria",
+                        "<img src=\"tmpn7saxl_9.png\" />",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-2-A.svg\" />",
+                        "<img src=\"3f0d6531e3ab48fc8de946bf2a04838f-ao-O.svg\" />"
+                    ],
+                    "guid": "Ft`nXpvu98",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fd372e740b6b4452976d979e4820e29a-oa-1",
+                        "Tratamiento antibiótico hospitalario de la  Enf. Pélvica Inflamatoria",
+                        "<img src=\"tmp4fuucv_v.png\" />",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-1-A.svg\" />",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-O.svg\" />"
+                    ],
+                    "guid": "-h;a$ys>S",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "fd372e740b6b4452976d979e4820e29a-oa-2",
+                        "Tratamiento antibiótico hospitalario de la  Enf. Pélvica Inflamatoria",
+                        "<img src=\"tmp4fuucv_v.png\" />",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-2-A.svg\" />",
+                        "<img src=\"fd372e740b6b4452976d979e4820e29a-oa-O.svg\" />"
+                    ],
+                    "guid": "imJ&-E|41h",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7e56dae8c3124245bd006ed1cc7dc4b4-oa-1",
+                        "Resumen terapéutico del condiloma acuminado ",
+                        "<img src=\"tmp8ot0zeu0.png\" />",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-1-A.svg\" />",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-O.svg\" />"
+                    ],
+                    "guid": "eDb793JW+h",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "7e56dae8c3124245bd006ed1cc7dc4b4-oa-2",
+                        "Resumen terapéutico del condiloma acuminado ",
+                        "<img src=\"tmp8ot0zeu0.png\" />",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-2-A.svg\" />",
+                        "<img src=\"7e56dae8c3124245bd006ed1cc7dc4b4-oa-O.svg\" />"
+                    ],
+                    "guid": "G}Qp8qZGf2",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "daece30a842a483e81b184b55a6785ef-ao-1",
+                        "Tipos clinicopatológicos de la Neoplasia Vulvar intraepitelial según su relación con el VPH (TENN: trastornos epiteliales no neoplásicos; TGI: tracto genital inferior)",
+                        "<img src=\"tmpl6mcl0_j.png\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-1-A.svg\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-O.svg\" />"
+                    ],
+                    "guid": "QUWfC9-H7P",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "daece30a842a483e81b184b55a6785ef-ao-2",
+                        "Tipos clinicopatológicos de la Neoplasia Vulvar intraepitelial según su relación con el VPH (TENN: trastornos epiteliales no neoplásicos; TGI: tracto genital inferior)",
+                        "<img src=\"tmpl6mcl0_j.png\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-2-A.svg\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-O.svg\" />"
+                    ],
+                    "guid": "c?`*iuFxRE",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "daece30a842a483e81b184b55a6785ef-ao-3",
+                        "Tipos clinicopatológicos de la Neoplasia Vulvar intraepitelial según su relación con el VPH&nbsp;<div>(TENN: trastornos epiteliales no neoplásicos; TGI: tracto genital inferior)</div>",
+                        "<img src=\"tmpl6mcl0_j.png\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-3-A.svg\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-O.svg\" />"
+                    ],
+                    "guid": "tTBIf:cl?&",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "daece30a842a483e81b184b55a6785ef-ao-4",
+                        "Tipos clinicopatológicos de la Neoplasia Vulvar intraepitelial según su relación con el VPH (TENN: trastornos epiteliales no neoplásicos; TGI: tracto genital inferior)",
+                        "<img src=\"tmpl6mcl0_j.png\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-4-A.svg\" />",
+                        "<img src=\"daece30a842a483e81b184b55a6785ef-ao-O.svg\" />"
+                    ],
+                    "guid": "m/S~S:Ri:W",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "47edaca5656e4e12b34098e00f376ab0-ao-1",
+                        "Estadificación del cáncer de vulva (FIGO, 2014)",
+                        "<img src=\"tmp93uc1gmw.png\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-1-A.svg\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-O.svg\" />"
+                    ],
+                    "guid": "v+Dn<|KI??",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "47edaca5656e4e12b34098e00f376ab0-ao-2",
+                        "Estadificación del cáncer de vulva (FIGO, 2014)",
+                        "<img src=\"tmp93uc1gmw.png\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-2-A.svg\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-O.svg\" />"
+                    ],
+                    "guid": "y;iewR#nb@",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "47edaca5656e4e12b34098e00f376ab0-ao-3",
+                        "Estadificación del cáncer de vulva (FIGO, 2014)",
+                        "<img src=\"tmp93uc1gmw.png\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-3-A.svg\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-O.svg\" />"
+                    ],
+                    "guid": "OPxL4;I;.0",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "47edaca5656e4e12b34098e00f376ab0-ao-4",
+                        "Estadificación del cáncer de vulva (FIGO, 2014)",
+                        "<img src=\"tmp93uc1gmw.png\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-4-A.svg\" />",
+                        "<img src=\"47edaca5656e4e12b34098e00f376ab0-ao-O.svg\" />"
+                    ],
+                    "guid": "urS95I!I&j",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "774a5993469244bf9617cdcfcf974d35-oa-1",
+                        "Tratamiento ambulatorio de la  Enf. Pélvica Inflamatoria (Estadio I y II)",
+                        "<img src=\"tmp9gvaqkoq.png\" />",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-1-A.svg\" />",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-O.svg\" />"
+                    ],
+                    "guid": "L?)w.{ql<q",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "774a5993469244bf9617cdcfcf974d35-oa-2",
+                        "Tratamiento ambulatorio de la  Enf. Pélvica Inflamatoria (Estadio I y II)",
+                        "<img src=\"tmp9gvaqkoq.png\" />",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-2-A.svg\" />",
+                        "<img src=\"774a5993469244bf9617cdcfcf974d35-oa-O.svg\" />"
+                    ],
+                    "guid": "g,b`@iPv$m",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "El parto pretérmino se define como aquel que ocurre",
+                        "Antes de la semana 37"
+                    ],
+                    "guid": "D9(fS`J^=u",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-1",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-1-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "BD=)2e[q?l",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-2",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-2-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "Iw1.NwZEz?",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-3",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-3-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "A$KaGF!B2W",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-4",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-4-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "Lb3y8?(u(~",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-5",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-5-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "L6*_C0~g]s",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-6",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-6-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "f,j:ajgZ8g",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "4ad48edfeeef47a7908410382417e04a-oa-7",
+                        "Manejo de gestante con sospecha de Amenazada de Parto Pretermino",
+                        "<img src=\"tmp3f0_g5vu.png\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-7-A.svg\" />",
+                        "<img src=\"4ad48edfeeef47a7908410382417e04a-oa-O.svg\" />"
+                    ],
+                    "guid": "zp~:0:w`XS",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e249b99a062e449b84c1647627686787-oa-1",
+                        "Cribado del EGB y profilaxis intraparto en gestantes con Amenazada de Parto Pretermino",
+                        "<img src=\"tmpgo9fmtr0.png\" />",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-1-A.svg\" />",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-O.svg\" />"
+                    ],
+                    "guid": "eC%Om%P_)8",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "e249b99a062e449b84c1647627686787-oa-2",
+                        "Cribado del EGB y profilaxis intraparto en gestantes con Amenazada de Parto Pretermino",
+                        "<img src=\"tmpgo9fmtr0.png\" />",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-2-A.svg\" />",
+                        "<img src=\"e249b99a062e449b84c1647627686787-oa-O.svg\" />"
+                    ],
+                    "guid": "p5gzI$*>#r",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": []
                 }
@@ -26000,7 +26723,7 @@
                         "Célula de Reed-Sternberg<div><br></div><div>Asociado a Enfermedad de Hodgkin</div><div><br></div><div><br><i>\"grandes con amplio citoplasma, núcleos bilobulados y grandes nucleolos de tipo inclusión acompañadas de eosinófilos, células plasmáticas y ocasionales polimorfonucleares\" o más facil, en \"ojos de buho\"</i></div>"
                     ],
                     "guid": "NPKSQe~w};",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 }
             ]
@@ -35117,7 +35840,7 @@
                         "Lepra"
                     ],
                     "guid": "sSC]O/=Wxn",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -35336,7 +36059,7 @@
                         "Cultivo de Tinsdale formando colonias negras (característico)"
                     ],
                     "guid": "Q.~;%y9dPZ",
-                    "note_model_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -36828,7 +37551,7 @@
                         "Patrón radiológico de neumonía que comparten de <b>S. Aureus </b>y <b>P. Aeruginosa </b>(<i>famosas resistentes)</i>"
                     ],
                     "guid": "lmVw)3/Fz&",
-                    "note_model_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -40156,7 +40879,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mecanismo de acción de fingolimod? EAs? Qué no se puede administrar durante su utilización?",
+                        "Mecanismo de acción de <b>fingolimod</b>? EAs? Qué no se puede administrar durante su utilización?",
                         "MA: secuestro de linfocitos en nódulos linfáticos.<div>EAs: bradicardia, visión borrosa y +FR Ca de piel.</div><div>No se administran vacunas.</div>"
                     ],
                     "guid": "ELW_Klw?kO",
@@ -41007,7 +41730,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Enfermedades importantes de la medicina en la que el <font color=\"#f27a22\">Tabaco</font> ejerce como <font color=\"#3ea823\">Factor Protector</font> (5)?",
-                        "1. CU<div>2. Endometriosis</div><div>3. Cáncer de endometrio</div><div>4. <font color=\"#ec458f\">Neumonía por Hipersensibilidad</font></div><div>5. Sarcoidosis</div>",
+                        "1. Colitis Ulcerosa<div>2. Endometriosis</div><div>3. Cáncer de endometrio</div><div>4. <font color=\"#ec458f\">Neumonía por Hipersensibilidad</font></div><div>5. Sarcoidosis</div>",
                         ""
                     ],
                     "guid": "rY9+Yo>rV*",
@@ -41057,8 +41780,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Biopsia muscular típica de qué helmintiasis?<div><img src=\"triquinosis.jpg\" /></div>",
-                        "<font color=\"#48d8cd\">Triquiniosis</font><div>(Triquiñuelas en el músculo)</div>",
+                        "Biopsia muscular típica de qué helmintiasis?<div><img src=\"triquinosis.jpg\"></div>",
+                        "<font color=\"#48d8cd\">Triquiniosis</font><div>(Triquiñuelas en el músculo,&nbsp;<a href=\"https://www.wikiwand.com/es/Trichinella_spiralis\">Trichinella spiralis</a>)</div>",
                         ""
                     ],
                     "guid": "k(ciWO-/*5",
@@ -53169,7 +53892,7 @@
                         "Meningioma, Carcinoma seroso de ovario y Carcinoma papilar de tiroides"
                     ],
                     "guid": "dCk>w$]gND",
-                    "note_model_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": []
                 }
             ]
@@ -53317,6 +54040,8 @@
                 "82d21f02c1d64b1883d602166f7d8d50-oa-5-Q.svg",
                 "82d21f02c1d64b1883d602166f7d8d50-oa-6-A.svg",
                 "82d21f02c1d64b1883d602166f7d8d50-oa-6-Q.svg",
+                "82d21f02c1d64b1883d602166f7d8d50-oa-7-A.svg",
+                "82d21f02c1d64b1883d602166f7d8d50-oa-7-Q.svg",
                 "82d21f02c1d64b1883d602166f7d8d50-oa-O.svg",
                 "85e2be18852044c9a95c44c079983773-oa-1-A.svg",
                 "85e2be18852044c9a95c44c079983773-oa-1-Q.svg",
@@ -54207,7 +54932,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Tumor de faringe que afecta por igual a hombres y mujeres, sin relación con tabaco o alcohol, causado por VEB, de extirpe más frecuente carcinoma indiferenciado y que de elección se trata con radioterapia?",
-                        "Carcinoma de rinofaringe",
+                        "Carcinoma de rinofaringe / cavum",
                         ""
                     ],
                     "guid": "k1=}{R*E@n",
@@ -54768,7 +55493,7 @@
                         "Hiperestesia del pabellón y CAE ocasionada por compresión del nervio facial <br>por neurinomas"
                     ],
                     "guid": "gg8i*A(+;4",
-                    "note_model_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -54778,7 +55503,7 @@
                         "Signo del dedo gordo<div><img src=\"pulgar.jpg\"><br></div>"
                     ],
                     "guid": "leeZ/HO+y^",
-                    "note_model_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -55510,7 +56235,7 @@
                         "Pericondritis del pabellón auricular"
                     ],
                     "guid": "EPE61Mv]8.",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56527,7 +57252,7 @@
                         "Gap óseo, típico de hipoacusia transmisiva"
                     ],
                     "guid": "o/x*;}GG,p",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56537,7 +57262,7 @@
                         "1. Ambas lineas caen y juntas, empeorando en intensidades agudas<div><br></div><div>2. Hipoacusia neurosensorial (Excepto en Enf. de Meniére)</div>"
                     ],
                     "guid": "Gn-P}gRe>2",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56547,7 +57272,7 @@
                         "Hipoacusia mixta<div><br></div><div>Otoesclerosis</div>"
                     ],
                     "guid": "AECu#d,QOS",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56557,7 +57282,7 @@
                         "A = Patrón normal<div>B = Percepción completa con trastorno de transmisión</div><div>C = Fenómeno de reclutamiento (roll-over) de trastorno coclear</div><div>D = Fenómeno de adaptación o fatiga de trastorno retro-coclear</div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src=\"paste-5ebddff063363c8f94474c4b190cb7210ff5c34a.jpg\"><br></div>"
                     ],
                     "guid": "mtb({xtb{:",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56567,7 +57292,7 @@
                         "Tapón de cera"
                     ],
                     "guid": "LIT&E;{U~,",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56577,7 +57302,7 @@
                         "Pericondritis<div>P. Aeruginosa</div>"
                     ],
                     "guid": "ionJuloz#?",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56587,7 +57312,7 @@
                         "<b>Zoster ótico</b> o <b>Sx. Ramsay Hunt</b> (si acompaña paralisis facial + otalgia + afectación PC VIII)<div><br></div><div>Tx = Aciclovir + Corticoides + Protección ocular + Mupirocina tópica para evitar reinfección</div>"
                     ],
                     "guid": "A}B^Qv3Mgz",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56597,7 +57322,7 @@
                         "Nivel hidroaereo<div>Burbujas</div><div>Ambarino</div><div><br></div><div><br></div><div>Sugestivo de OMS (otitis media serosa)</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><img src=\"paste-40053e9993eb4d6750079fa3bdc3acae8a9deffa.jpg\"><br></div>"
                     ],
                     "guid": "fC.Jpm(Um9",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56607,7 +57332,7 @@
                         "1ra: Dolor por abombamiento<div>2da: Otorrea hemática y/o purulenta con menos/sin dolor</div>"
                     ],
                     "guid": "jhBiUt3LO=",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 },
                 {
@@ -56797,6 +57522,25 @@
                         "<img src=\"ac68a053fcbc47018ec7f95ca00e221f-oa-O.svg\" />"
                     ],
                     "guid": "nwdE9n+FvH",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "82d21f02c1d64b1883d602166f7d8d50-oa-7",
+                        "",
+                        "<img src=\"tmp3501v78s.png\" />",
+                        "<img src=\"82d21f02c1d64b1883d602166f7d8d50-oa-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"82d21f02c1d64b1883d602166f7d8d50-oa-7-A.svg\" />",
+                        "<img src=\"82d21f02c1d64b1883d602166f7d8d50-oa-O.svg\" />"
+                    ],
+                    "guid": "c>}vE]Sh7^",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": []
                 }
@@ -58100,7 +58844,7 @@
                         "Nódulo de Lisch<div><br></div><div>Neurofibromatosis tipo 1</div>"
                     ],
                     "guid": "EPa3YH]Jkw",
-                    "note_model_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+                    "note_model_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
                     "tags": []
                 }
             ]
@@ -60422,6 +61166,17 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Como se trata el caput sucedaneum?<div>Y el cefalohematoma?</div>",
+                        "1. No se trata<div>2. No se trata</div>",
+                        ""
+                    ],
+                    "guid": "tRxYy.g!?O",
+                    "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "El cierre del <b>ductus</b> tras el nacimiento, cuando sucede?",
                         "<b>10-15 horas</b>",
                         ""
@@ -60438,17 +61193,6 @@
                         ""
                     ],
                     "guid": "OovvLr9yv5",
-                    "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Como se trata el caput sucedaneum?<div>Y el cefalohematoma?</div>",
-                        "1. No se trata<div>2. No se trata</div>",
-                        ""
-                    ],
-                    "guid": "tRxYy.g!?O",
                     "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
                     "tags": []
                 },
@@ -61082,8 +61826,6 @@
                 "933c2b96b03443a397e79132599fc250-oa-2-Q.svg",
                 "933c2b96b03443a397e79132599fc250-oa-3-A.svg",
                 "933c2b96b03443a397e79132599fc250-oa-3-Q.svg",
-                "933c2b96b03443a397e79132599fc250-oa-4-A.svg",
-                "933c2b96b03443a397e79132599fc250-oa-4-Q.svg",
                 "933c2b96b03443a397e79132599fc250-oa-O.svg",
                 "9341d798134e4b45af0236dca127cc49-oa-1-A.svg",
                 "9341d798134e4b45af0236dca127cc49-oa-1-Q.svg",
@@ -63668,25 +64410,6 @@
                         "<img src=\"933c2b96b03443a397e79132599fc250-oa-O.svg\" />"
                     ],
                     "guid": "L^{##gj{_u",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "933c2b96b03443a397e79132599fc250-oa-4",
-                        "Síndromes depresivos",
-                        "<img src=\"tmp3dw1u1_f.png\" />",
-                        "<img src=\"933c2b96b03443a397e79132599fc250-oa-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"933c2b96b03443a397e79132599fc250-oa-4-A.svg\" />",
-                        "<img src=\"933c2b96b03443a397e79132599fc250-oa-O.svg\" />"
-                    ],
-                    "guid": "Oz-*oi[{EZ",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": []
                 },
@@ -72214,7 +72937,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "ecc7723f-3506-11eb-b1da-e0d4e86835a7",
+            "crowdanki_uuid": "b8ff40f8-36b8-11eb-bf4a-e0d4e86835a4",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
@@ -72269,7 +72992,7 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "ecd8d76b-3506-11eb-96d7-e0d4e86835a7",
+            "crowdanki_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
             "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
             "flds": [
                 {
