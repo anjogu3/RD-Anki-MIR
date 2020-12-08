@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="308">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  
+  <g id="c463047c39d843a08b0e9ceb8506b0d9-oa-7" class="qshape">
+   <rect stroke="#2D2D2D" height="22.38806" width="128.35821" y="194.98507" x="380.65667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+   <text transform="matrix(0.47095757722854614,0,0,0.444637268781662,157.04293668456376,97.92606909060851) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="251.67819" x="598.40792" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Estado de la bolsa</text>
+  </g>
+ </g>
+</svg>

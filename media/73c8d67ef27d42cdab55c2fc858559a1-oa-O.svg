@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="888" height="906">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="73c8d67ef27d42cdab55c2fc858559a1-oa-1">
+   <rect height="285.71429" width="289.28572" y="508.28576" x="540.57143" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text transform="matrix(0.7769342064857483,0,0,1.1332777738571167,120.33353939186782,-84.40231522545218) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="657.86575" x="724.76508" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Método diagnóstico y terapéutico</text>
+  </g>
+  <g id="73c8d67ef27d42cdab55c2fc858559a1-oa-2">
+   <rect height="235.71429" width="300.00001" y="511.85718" x="47.71428" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text transform="matrix(0.8778286576271057,0,0,1,3.203179882839322,0) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="640.42862" x="223.61632" stroke-width="0" fill="#000000">Método diagnóstico 1era línea</text>
+  </g>
+ </g>
+</svg>

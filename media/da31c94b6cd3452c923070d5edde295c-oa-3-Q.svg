@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="288">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  <g id="da31c94b6cd3452c923070d5edde295c-oa-3" class="qshape">
+   <rect height="28.35821" width="598.50747" y="168.7164" x="62.23883" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="189.61193" x="347.31346" stroke-width="0" fill="#000000">Datos analíticos</text>
+  </g>
+ </g>
+</svg>
