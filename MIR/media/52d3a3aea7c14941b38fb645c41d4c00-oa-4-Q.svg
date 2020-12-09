@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="872" height="674">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g display="inline">
+  <title>Labels</title>
+  <text transform="matrix(0.5374003648757935,0,0,0.4850825369358062,200.62987529858947,164.68981953943148) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="324.38709" x="498.16125" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">pH y electrolitos</text>
+  <text style="cursor: move;" id="svg_2" transform="matrix(0.5374003648757935,0,0,0.4850825369358062,200.62987529858947,164.68981953943148) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="572.29028" x="484.31971" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Pigmentación</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  
+  
+  <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="72.35481" y="631.64515" width="320.96774" height="31.45161" id="52d3a3aea7c14941b38fb645c41d4c00-oa-4" class="qshape"/>
+  
+ </g>
+</svg>

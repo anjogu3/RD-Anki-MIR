@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1182" height="727">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_3" y="336.47828" x="199.73906" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Repetidas?</text>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_7" y="418.21741" x="209.30428" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Duración</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="266.18187" y="110.2727" width="296.36365" height="95.45455" id="82d21f02c1d64b1883d602166f7d8d50-oa-1"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="573.45461" y="109.36361" width="295.45456" height="94.54546" id="82d21f02c1d64b1883d602166f7d8d50-oa-2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="880.72735" y="111.18179" width="297.27274" height="92.72728" id="82d21f02c1d64b1883d602166f7d8d50-oa-3"/>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="263.49412" y="330.66797" width="912.72731" height="31.8577" id="82d21f02c1d64b1883d602166f7d8d50-oa-4"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="266.18187" y="583.90908" width="913.6364" height="138.18182" id="82d21f02c1d64b1883d602166f7d8d50-oa-5"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="267.09096" y="427.54544" width="910.90913" height="147.27273" id="82d21f02c1d64b1883d602166f7d8d50-oa-6"/>
+  <rect id="82d21f02c1d64b1883d602166f7d8d50-oa-7" stroke="#2D2D2D" fill="#FFEBA2" x="265.23325" y="375.01579" width="912.72731" height="31.8577"/>
+ </g>
+</svg>

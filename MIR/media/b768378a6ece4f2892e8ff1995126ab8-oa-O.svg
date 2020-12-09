@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="890" height="1002">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="b768378a6ece4f2892e8ff1995126ab8-oa-1" height="180" width="192" y="462" x="234" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="b768378a6ece4f2892e8ff1995126ab8-oa-2" height="100" width="168" y="458" x="666" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="b768378a6ece4f2892e8ff1995126ab8-oa-3" height="104" width="168" y="458" x="454" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="b768378a6ece4f2892e8ff1995126ab8-oa-4" height="68" width="160" y="810" x="238" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="b768378a6ece4f2892e8ff1995126ab8-oa-5" height="44" width="164" y="810" x="454" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g stroke="null" id="b768378a6ece4f2892e8ff1995126ab8-oa-6">
+   <rect stroke="#2D2D2D" height="40" width="168.00001" y="734" x="661.99999" fill="#FFEBA2"/>
+   <text transform="matrix(0.42692301805461164,0,0,0.5952381295344188,434.3759061884517,312.2142616784761) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="746" x="730.18018" stroke-width="0" fill="#000000">Semanas en la que se debe realizar</text>
+  </g>
+  <g stroke="null" id="b768378a6ece4f2892e8ff1995126ab8-oa-7">
+   <rect stroke="#2D2D2D" height="44" width="188" y="910" x="664" fill="#FFEBA2"/>
+   <text transform="matrix(0.4777471576157096,0,0,0.6547619424878607,422.1496196857554,205.53568784632364) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="1113.30907" x="703.23749" stroke-width="0" fill="#000000">Semanas en la que se debe realizar</text>
+  </g>
+  <g stroke="null" id="b768378a6ece4f2892e8ff1995126ab8-oa-8">
+   <rect stroke="#2D2D2D" height="44" width="192.00001" y="906" x="448" fill="#FFEBA2"/>
+   <text transform="matrix(0.48791201388270483,0,0,0.6547619424878607,466.0120484257217,205.53568784632364) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="1107.19998" x="160.08999" stroke-width="0" fill="#000000">Semanas en la que se debe realizar</text>
+  </g>
+  <g stroke="null" id="b768378a6ece4f2892e8ff1995126ab8-oa-9">
+   <rect stroke="#2D2D2D" height="40" width="188" y="910" x="236" fill="#FFEBA2"/>
+   <text transform="matrix(0.4777471576157096,0,0,0.5952381295344188,509.1239734760386,268.2142616784761) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="1115.59998" x="-374.68489" stroke-width="0" fill="#000000">Semanas en la que se debe realizar</text>
+  </g>
+ </g>
+</svg>
