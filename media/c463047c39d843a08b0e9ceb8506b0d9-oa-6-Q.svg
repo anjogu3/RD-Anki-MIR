@@ -7,14 +7,11 @@
   <title>Masks</title>
   
   
-  
-  
-  
-  
   <g id="c463047c39d843a08b0e9ceb8506b0d9-oa-6" class="qshape">
-   <rect height="26.86567" width="126.86567" y="226.32836" x="379.16413" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <text transform="matrix(0.7101756014960507,0,0,0.6195517045367538,113.67165247130782,84.74761536807915) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="257.15673" x="462.11003" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Presentación</text>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="379.16413" y="226.32836" width="126.86567" height="26.86567" class="qshape"/>
+   <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="462.11003" y="257.15673" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.7101756014960507,0,0,0.6195517045367538,113.67165247130782,84.74761536807915) ">Presentación</text>
   </g>
+  
   
  </g>
 </svg>

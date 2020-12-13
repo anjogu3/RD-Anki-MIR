@@ -5,7 +5,15 @@
  </g>
  <g>
   <title>Masks</title>
-  <rect id="213df7e06be14b8a89ee3279fa1431d2-oa-1" height="56.52174" width="256.52174" y="141.47827" x="248.95648" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="213df7e06be14b8a89ee3279fa1431d2-oa-2" height="200" width="647.82609" y="243.65218" x="90.26083" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="271.3249" y="151.34669" width="208.49542" height="34.15332" id="213df7e06be14b8a89ee3279fa1431d2-oa-1"/>
+  <g id="213df7e06be14b8a89ee3279fa1431d2-oa-2">
+   <rect stroke="#2D2D2D" fill="#FFEBA2" x="458.024" y="373.25744" width="211.64189" height="28.28947"/>
+   <rect stroke="#2D2D2D" fill="#FFEBA2" x="146.8398" y="370.62587" width="78.08926" height="28.28947"/>
+  </g>
+  <g id="213df7e06be14b8a89ee3279fa1431d2-oa-3">
+   <rect stroke="#2D2D2D" fill="#FFEBA2" x="139.60293" y="260.09955" width="129.40504" height="28.28947"/>
+   <rect stroke="#2D2D2D" fill="#FFEBA2" x="405.39242" y="257.46797" width="129.40504" height="28.28947"/>
+   <rect stroke="#2D2D2D" fill="#FFEBA2" x="569.86611" y="287.73113" width="143.22084" height="28.28947"/>
+  </g>
  </g>
 </svg>
