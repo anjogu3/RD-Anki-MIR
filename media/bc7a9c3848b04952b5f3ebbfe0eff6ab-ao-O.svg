@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="776" height="544">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="bc7a9c3848b04952b5f3ebbfe0eff6ab-ao-1">
+   <g>
+    <rect height="42.55319" width="123.40426" y="47.48939" x="143.14893" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <text transform="matrix(0.6927171349525452,0,0,0.7601229548454285,50.41359504684806,107.34122962784022) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="-43.46918" x="218.33713" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Mayor riesgo</text>
+   </g>
+   <g>
+    <rect stroke="#2D2D2D" height="42.5532" width="108.51064" y="49.61705" x="472.93617" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+    <text transform="matrix(0.6770546103731903,0,0,0.7889199118383344,202.73684056866904,99.67685708144188) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="-29.17643" x="480.78815" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Menor riesgo</text>
+   </g>
+  </g>
+ </g>
+</svg>
