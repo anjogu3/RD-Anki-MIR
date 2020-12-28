@@ -5,10 +5,12 @@
  </g>
  <g>
   <title>Masks</title>
-  <rect fill="#FFEBA2" stroke="#2D2D2D" x="272.45041" y="36.35114" width="1062.59544" height="24.42748" id="8677905bd1fe45238f98d426e03ba6c7-ao-1"/>
-  <rect fill="#FFEBA2" stroke="#2D2D2D" x="270.92369" y="140.16793" width="1062.59544" height="24.42748" id="8677905bd1fe45238f98d426e03ba6c7-ao-2"/>
-  <rect fill="#FFEBA2" stroke="#2D2D2D" x="270.92369" y="174.51908" width="1062.59544" height="24.42748" id="8677905bd1fe45238f98d426e03ba6c7-ao-3"/>
-  <rect fill="#FFEBA2" stroke="#2D2D2D" x="271.68705" y="209.63358" width="1062.59544" height="24.42748" id="8677905bd1fe45238f98d426e03ba6c7-ao-4"/>
-  <rect fill="#FFEBA2" stroke="#2D2D2D" x="269.39698" y="379.86259" width="1062.59544" height="24.42748" id="8677905bd1fe45238f98d426e03ba6c7-ao-7"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-1" height="24.42748" width="1062.59544" y="36.35114" x="272.45041" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-2" height="24.42748" width="1062.59544" y="140.16793" x="270.92369" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-3" height="24.42748" width="1062.59544" y="174.51908" x="270.92369" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-4" height="24.42748" width="1062.59544" y="209.63358" x="271.68705" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-5" height="24.42748" width="1062.59544" y="276.0458" x="273.21377" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-6" height="24.42748" width="1062.59544" y="311.1603" x="273.21377" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8677905bd1fe45238f98d426e03ba6c7-ao-7" height="24.42748" width="1062.59544" y="379.86259" x="269.39698" stroke="#2D2D2D" fill="#FFEBA2"/>
  </g>
 </svg>

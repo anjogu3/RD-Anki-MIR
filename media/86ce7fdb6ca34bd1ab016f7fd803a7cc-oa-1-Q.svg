@@ -5,10 +5,13 @@
  </g>
  <g>
   <title>Masks</title>
+  
+  
   <g id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-1" class="qshape">
-   <rect fill="#FF7E7E" x="452.38705" y="153.74195" width="390.32259" height="54.83871" stroke="#2D2D2D" class="qshape"/>
-   <rect fill="#FF7E7E" x="329.8064" y="179.5484" width="122.58065" height="29.03226" stroke="#2D2D2D" class="qshape"/>
+   <rect stroke="#2D2D2D" height="54.83871" width="390.32259" y="153.74195" x="452.38705" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="29.03226" width="122.58065" y="179.5484" x="329.8064" fill="#FF7E7E" class="qshape"/>
   </g>
+  
   
   
   

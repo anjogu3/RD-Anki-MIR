@@ -8,7 +8,10 @@
   
   
   
-  <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="436.25802" y="540.83873" width="190.32258" height="35.48387" id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-4" class="qshape"/>
+  
+  
+  
+  <rect id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-4" height="35.48387" width="190.32258" y="540.83873" x="436.25802" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
   
   
  </g>
