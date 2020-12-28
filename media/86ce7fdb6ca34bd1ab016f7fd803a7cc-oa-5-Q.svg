@@ -9,12 +9,9 @@
   
   
   
-  
-  
-  
-  <g stroke="null" id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-5" class="qshape">
-   <rect stroke="#2D2D2D" height="23.08998" width="254.77707" y="637.61292" x="575.02934" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
-   <rect stroke="#2D2D2D" height="31.74873" width="133.75796" y="660.70291" x="329.80642" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+  <g id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-5" stroke="null" class="qshape">
+   <rect fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="575.02934" y="637.61292" width="254.77707" height="23.08998" stroke="#2D2D2D" class="qshape"/>
+   <rect fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="329.80642" y="660.70291" width="133.75796" height="31.74873" stroke="#2D2D2D" class="qshape"/>
   </g>
   
  </g>
