@@ -6,14 +6,11 @@
  <g>
   <title>Masks</title>
   
-  
-  
-  
-  
   <g id="c463047c39d843a08b0e9ceb8506b0d9-oa-5" class="qshape">
-   <rect stroke="#2D2D2D" height="31.34328" width="243.28358" y="157.67164" x="380.65666" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
-   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="181.55224" x="494.0895" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Estado del cuello</text>
+   <rect fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="380.65666" y="157.67164" width="243.28358" height="31.34328" stroke="#2D2D2D" class="qshape"/>
+   <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="494.0895" y="181.55224" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">Estado del cuello</text>
   </g>
+  
   
   
  </g>
