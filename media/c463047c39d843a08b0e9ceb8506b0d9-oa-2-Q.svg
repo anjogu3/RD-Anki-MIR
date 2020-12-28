@@ -6,13 +6,12 @@
  <g>
   <title>Masks</title>
   
+  <rect id="c463047c39d843a08b0e9ceb8506b0d9-oa-2" height="26.86567" width="88.0597" y="160.65672" x="717.9701" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
   
   
   
-  <g id="c463047c39d843a08b0e9ceb8506b0d9-oa-2" class="qshape">
-   <rect stroke="#2D2D2D" fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="717.97009" y="160.65672" width="20.547" height="26.86567" class="qshape"/>
-   <rect stroke="#2D2D2D" fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="716.47754" y="211.40298" width="23.50176" height="26.86567" class="qshape"/>
-   <rect stroke="#2D2D2D" fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="716.47754" y="80.0597" width="23.02449" height="31.34328" class="qshape"/>
-  </g>
+  
+  
+  
  </g>
 </svg>

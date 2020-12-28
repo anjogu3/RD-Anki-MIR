@@ -5,10 +5,9 @@
  </g>
  <g>
   <title>Masks</title>
-  <g id="4accd56aec94425aa30d200430dd5afb-oa-1" class="qshape">
-   <rect fill="#FF7E7E" stroke="#2D2D2D" x="317.93979" y="78.34413" width="204.47762" height="29.85075" class="qshape"/>
-   <rect fill="#FF7E7E" stroke="#2D2D2D" x="599.15808" y="76.82128" width="204.47762" height="29.85075" class="qshape"/>
-  </g>
+  <rect id="4accd56aec94425aa30d200430dd5afb-oa-1" height="31.34328" width="179.10448" y="76.29851" x="317.9701" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+  
+  
   
  </g>
 </svg>
