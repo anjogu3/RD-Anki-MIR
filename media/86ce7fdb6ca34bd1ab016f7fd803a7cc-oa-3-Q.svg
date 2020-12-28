@@ -7,12 +7,9 @@
   <title>Masks</title>
   
   
-  
-  
-  
   <g id="86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-3" class="qshape">
-   <rect height="38.70968" width="261.29033" y="366.64518" x="491.09673" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-   <rect height="29.03226" width="377.41936" y="408.58066" x="326.5806" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="491.09673" y="366.64518" width="261.29033" height="38.70968" class="qshape"/>
+   <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="326.5806" y="408.58066" width="377.41936" height="29.03226" class="qshape"/>
   </g>
   
   

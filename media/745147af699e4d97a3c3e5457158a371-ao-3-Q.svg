@@ -1,23 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1295" height="497">
  <!-- Created with Image Occlusion Enhanced -->
- <g>
+ <g display="inline">
   <title>Labels</title>
+  <text transform="matrix(0.372052937746048,0,0,0.47232529520988464,299.5798070593737,171.60970789846033) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_1" y="404.73024" x="1870.13468" stroke-width="0" fill="#000000">Deposito articular basically</text>
  </g>
- <g>
+ <g display="inline">
   <title>Masks</title>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-1" height="24.69136" width="1126.91359" y="39.2963" x="162.77777" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-2" height="24.69136" width="1126.91359" y="73.37037" x="164.25926" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-3" height="24.69136" width="1126.91359" y="106.95062" x="165.24692" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-4" height="24.69136" width="1126.91359" y="140.53086" x="163.27161" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-5" height="24.69136" width="1126.91359" y="174.11111" x="164.25926" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-6" height="24.69136" width="1126.91359" y="205.71605" x="164.25926" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-7" height="24.69136" width="1126.91359" y="238.30864" x="165.24692" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-8" height="24.69136" width="1126.91359" y="271.88889" x="166.23457" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-9" height="24.69136" width="1126.91359" y="302.50617" x="165.24692" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-10" height="24.69136" width="1126.91359" y="467.44445" x="164.25926" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-11" height="24.69136" width="1126.91359" y="434.85185" x="163.27161" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-12" height="24.69136" width="1126.91359" y="404.23457" x="166.23457" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-13" height="24.69136" width="1126.91359" y="371.64198" x="166.23457" stroke="#2D2D2D" fill="#FFEBA2"/>
-  <rect id="745147af699e4d97a3c3e5457158a371-ao-14" height="24.69136" width="1126.91359" y="338.06173" x="165.24692" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="162.77777" y="39.2963" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-1"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="164.25926" y="73.37037" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-2"/>
+  <rect fill="#FF7E7E" stroke="#2D2D2D" x="165.24692" y="106.95062" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-3" class="qshape"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="163.27161" y="140.53086" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-4"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="164.25926" y="174.11111" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-5"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="164.25926" y="205.71605" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-6"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="165.24692" y="238.30864" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-7"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="166.23457" y="271.88889" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-8"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="165.24692" y="302.50617" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-9"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="164.25926" y="467.44445" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-10"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="163.27161" y="434.85185" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-11"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="166.23457" y="404.23457" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-12"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="166.23457" y="371.64198" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-13"/>
+  <rect fill="#FFEBA2" stroke="#2D2D2D" x="165.24692" y="338.06173" width="1126.91359" height="24.69136" id="745147af699e4d97a3c3e5457158a371-ao-14"/>
  </g>
 </svg>
