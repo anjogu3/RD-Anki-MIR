@@ -17377,30 +17377,19 @@
             "extendNew": 20,
             "extendRev": 50,
             "media_files": [
-                "051bde2110b64b5ea1b5b24082f26db9-ao-1-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-1-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-2-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-2-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-3-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-3-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-4-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-4-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-5-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-5-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-6-A.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-6-Q.svg",
-                "051bde2110b64b5ea1b5b24082f26db9-ao-O.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-1-A.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-1-Q.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-2-A.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-2-Q.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-3-A.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-3-Q.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-4-A.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-4-Q.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-5-A.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-5-Q.svg",
-                "2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-1-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-1-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-2-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-2-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-3-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-3-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-4-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-4-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-5-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-5-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-6-A.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-6-Q.svg",
+                "25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg",
                 "4e71d8ef2a454c0e971e599309c98787-ao-1-A.svg",
                 "4e71d8ef2a454c0e971e599309c98787-ao-1-Q.svg",
                 "4e71d8ef2a454c0e971e599309c98787-ao-2-A.svg",
@@ -17433,43 +17422,21 @@
                 "6fef4f3fd4274f79bf6fe031c965aa2f-ao-1-A.svg",
                 "6fef4f3fd4274f79bf6fe031c965aa2f-ao-1-Q.svg",
                 "6fef4f3fd4274f79bf6fe031c965aa2f-ao-O.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-1-A.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-1-Q.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-2-A.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-2-Q.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-3-A.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-3-Q.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-4-A.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-4-Q.svg",
-                "8aad47b9bced406a95081772f35e8332-ao-O.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-1-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-1-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-10-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-10-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-2-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-2-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-3-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-3-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-4-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-4-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-5-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-5-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-6-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-6-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-7-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-7-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-8-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-8-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-9-A.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-9-Q.svg",
-                "8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-1-A.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-1-Q.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-2-A.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-2-Q.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-3-A.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-3-Q.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-4-A.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-4-Q.svg",
+                "768c1aeaddc74e51bac2287623a11e44-ao-O.svg",
                 "8d974a9836bd418ab2a65c5fc8b99f0a-ao-1-A.svg",
                 "8d974a9836bd418ab2a65c5fc8b99f0a-ao-1-Q.svg",
                 "8d974a9836bd418ab2a65c5fc8b99f0a-ao-O.svg",
                 "Captura de Pantalla 2020-12-27 a la(s) 1.33.44 p. m..png",
                 "Captura de Pantalla 2020-12-27 a la(s) 1.35.56 p. m..png",
                 "Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png",
-                "Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png",
                 "Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png",
                 "Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png",
                 "b879dfd0070d426db65e71b54b5e3355-ao-1-A.svg",
@@ -17477,6 +17444,15 @@
                 "b879dfd0070d426db65e71b54b5e3355-ao-2-A.svg",
                 "b879dfd0070d426db65e71b54b5e3355-ao-2-Q.svg",
                 "b879dfd0070d426db65e71b54b5e3355-ao-O.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-1-A.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-1-Q.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-2-A.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-2-Q.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-3-A.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-3-Q.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-4-A.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-4-Q.svg",
+                "ed5cbf85e0ce42cf9da128b838858242-ao-O.svg",
                 "paste-17695265260216.jpg",
                 "paste-215b3483d23285b336e45e0ca57bf9692fbf16cf.jpg",
                 "paste-2529735737683.jpg",
@@ -19139,132 +19115,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-1-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-1"
-                    ],
-                    "guid": "ro5t(.xV-P",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-2-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-2"
-                    ],
-                    "guid": "QgZg:c/x/K",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-3-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-3"
-                    ],
-                    "guid": "B&zP%bB=sc",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-4-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-4"
-                    ],
-                    "guid": "YMO.1AGw6",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-5-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-5"
-                    ],
-                    "guid": "C.L1I_Z~Dy",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Medidas de frencuencia de la enfermedad",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-6-A.svg\" />",
-                        "<img src=\"051bde2110b64b5ea1b5b24082f26db9-ao-O.svg\" />",
-                        "051bde2110b64b5ea1b5b24082f26db9-ao-6"
-                    ],
-                    "guid": "b!T#Gb1ics",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Es la <b>medida de asociacion</b> en los estudios de <b>cohorte</b>. Mide la <b>fuerza de asociacion</b> entre el factor de riesgo y la enfermedad. Va entre <b>0 e infinito</b>.&nbsp;",
                         "Riesgo reativo&nbsp; (RR)"
                     ],
@@ -19366,111 +19216,6 @@
                     ],
                     "guid": "ioyfiWEA&K",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tipos de variables",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-1-A.svg\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg\" />",
-                        "2a11dd1e3f17480d8211715afb8f9ef7-ao-1"
-                    ],
-                    "guid": "b9EbWr2?IR",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tipos de variables",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-2-A.svg\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg\" />",
-                        "2a11dd1e3f17480d8211715afb8f9ef7-ao-2"
-                    ],
-                    "guid": "Kb9R>IeB%`",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tipos de variables",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-3-A.svg\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg\" />",
-                        "2a11dd1e3f17480d8211715afb8f9ef7-ao-3"
-                    ],
-                    "guid": "bC7O[fDs<:",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tipos de variables",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-4-A.svg\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg\" />",
-                        "2a11dd1e3f17480d8211715afb8f9ef7-ao-4"
-                    ],
-                    "guid": "Hr$.XU-qpj",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tipos de variables",
-                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.54.17 p. m..png\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-5-A.svg\" />",
-                        "<img src=\"2a11dd1e3f17480d8211715afb8f9ef7-ao-O.svg\" />",
-                        "2a11dd1e3f17480d8211715afb8f9ef7-ao-5"
-                    ],
-                    "guid": "m#%(rC$Bmf",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
                     ]
@@ -19694,300 +19439,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Contraste de hipotesis. Errores tipo I y II",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-1-A.svg\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-O.svg\" />",
-                        "8aad47b9bced406a95081772f35e8332-ao-1"
-                    ],
-                    "guid": "C2#{YTqeQX",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Contraste de hipotesis. Errores tipo I y II",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-2-A.svg\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-O.svg\" />",
-                        "8aad47b9bced406a95081772f35e8332-ao-2"
-                    ],
-                    "guid": "cf]c^+OF@p",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Contraste de hipotesis. Errores tipo I y II",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-3-A.svg\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-O.svg\" />",
-                        "8aad47b9bced406a95081772f35e8332-ao-3"
-                    ],
-                    "guid": "f&4)+cZb^x",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Contraste de hipotesis. Errores tipo I y II",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-4-A.svg\" />",
-                        "<img src=\"8aad47b9bced406a95081772f35e8332-ao-O.svg\" />",
-                        "8aad47b9bced406a95081772f35e8332-ao-4"
-                    ],
-                    "guid": "PAu.Xx[^&O",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-1-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-1"
-                    ],
-                    "guid": "vIe<(?-Yv(",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-2-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-2"
-                    ],
-                    "guid": "gw+_xX^cc@",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-3-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-3"
-                    ],
-                    "guid": "d]n^+y2?(!",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-4-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-4"
-                    ],
-                    "guid": "P`[y1;y1z<",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-5-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-5"
-                    ],
-                    "guid": "ll]jWf3aAg",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-6-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-6"
-                    ],
-                    "guid": "e1s~S7[1qE",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-7-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-7"
-                    ],
-                    "guid": "k,]Smb4d+m",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-8-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-8"
-                    ],
-                    "guid": "BB.7)4ly&B",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-9-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-9-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-9"
-                    ],
-                    "guid": "m7*gEq4M-u",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas de significacion estadistica/ contraste de hipotesis",
-                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-10-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-10-A.svg\" />",
-                        "<img src=\"8c255b8c2d9b4736a75b5c060f4f9117-ao-O.svg\" />",
-                        "8c255b8c2d9b4736a75b5c060f4f9117-ao-10"
-                    ],
-                    "guid": "BPw=q}%l{~",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Son pruebas con <b>menor precision</b> que se limitan a estudios con <b>muestras &lt; 30n</b> en los que la <b>poblacion NO se distribuye de manera normal.</b>&nbsp;",
                         "Test no parametricos&nbsp;"
                     ],
@@ -20008,6 +19459,300 @@
                     "tags": [
                         "Anjogu"
                     ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ed5cbf85e0ce42cf9da128b838858242-ao-1",
+                        "Pruebas de significacion estadistica/contraste de hipotesis",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-1-A.svg\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-O.svg\" />"
+                    ],
+                    "guid": "maO~ik`In#",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ed5cbf85e0ce42cf9da128b838858242-ao-2",
+                        "Pruebas de significacion estadistica/contraste de hipotesis",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-2-A.svg\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-O.svg\" />"
+                    ],
+                    "guid": "rkkGuR?`:t",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ed5cbf85e0ce42cf9da128b838858242-ao-3",
+                        "Pruebas de significacion estadistica/contraste de hipotesis",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-3-A.svg\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-O.svg\" />"
+                    ],
+                    "guid": "Iw!!!r$8s*",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ed5cbf85e0ce42cf9da128b838858242-ao-4",
+                        "Pruebas de significacion estadistica/contraste de hipotesis",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 12.03.33 p. m..png\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-4-A.svg\" />",
+                        "<img src=\"ed5cbf85e0ce42cf9da128b838858242-ao-O.svg\" />"
+                    ],
+                    "guid": "hl$QP}#:yx",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "768c1aeaddc74e51bac2287623a11e44-ao-1",
+                        "Contraste de hipotesis. Errores tipo I y II",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-1-A.svg\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-O.svg\" />"
+                    ],
+                    "guid": "eVM7OTGrYl",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "768c1aeaddc74e51bac2287623a11e44-ao-2",
+                        "Contraste de hipotesis. Errores tipo I y II",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-2-A.svg\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-O.svg\" />"
+                    ],
+                    "guid": "ba<J1<aC8y",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "768c1aeaddc74e51bac2287623a11e44-ao-3",
+                        "Contraste de hipotesis. Errores tipo I y II",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-3-A.svg\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-O.svg\" />"
+                    ],
+                    "guid": "f])7WrazqP",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "768c1aeaddc74e51bac2287623a11e44-ao-4",
+                        "Contraste de hipotesis. Errores tipo I y II",
+                        "<img src=\"Captura de Pantalla 2020-12-28 a la(s) 11.47.44 a. m..png\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-4-A.svg\" />",
+                        "<img src=\"768c1aeaddc74e51bac2287623a11e44-ao-O.svg\" />"
+                    ],
+                    "guid": "n_&|^0%E,g",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-1",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-1-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "hg(([ZKT}z",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-2",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-2-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "u0E`,Tpppr",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-3",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-3-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "f{z[*n]xF6",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-4",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-4-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "CL_jDkE!_F",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-5",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-5-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "n#)KBgQlu^",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "25492e520a4a4e17bd17ac5af6f9f1b7-ao-6",
+                        "Medida de frecuencia de la enfermedad",
+                        "<img src=\"Captura de Pantalla 2020-12-27 a la(s) 12.18.03 p. m..png\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-6-A.svg\" />",
+                        "<img src=\"25492e520a4a4e17bd17ac5af6f9f1b7-ao-O.svg\" />"
+                    ],
+                    "guid": "Nd`+G!sK/h",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
                 }
             ]
         },
@@ -20021,43 +19766,27 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-1-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-1-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-10-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-10-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-11-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-11-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-12-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-12-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-13-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-13-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-14-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-14-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-15-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-15-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-16-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-16-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-17-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-17-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-18-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-18-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-2-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-2-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-3-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-3-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-4-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-4-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-5-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-5-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-6-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-6-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-7-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-7-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-8-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-8-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-9-A.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-9-Q.svg",
-                "06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-1-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-1-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-2-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-2-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-3-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-3-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-4-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-4-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-5-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-5-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-6-A.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-6-Q.svg",
+                "04159343edd3480bb0a265cf82bd014d-ao-O.svg",
+                "07cc2d117e0442308fde349414054882-ao-1-A.svg",
+                "07cc2d117e0442308fde349414054882-ao-1-Q.svg",
+                "07cc2d117e0442308fde349414054882-ao-2-A.svg",
+                "07cc2d117e0442308fde349414054882-ao-2-Q.svg",
+                "07cc2d117e0442308fde349414054882-ao-O.svg",
+                "080596f8b9694e65b4281535272c409a-ao-1-A.svg",
+                "080596f8b9694e65b4281535272c409a-ao-1-Q.svg",
+                "080596f8b9694e65b4281535272c409a-ao-O.svg",
                 "08810af5e9ee4df0921f2d1a57bce35a-oa-1-A.svg",
                 "08810af5e9ee4df0921f2d1a57bce35a-oa-1-Q.svg",
                 "08810af5e9ee4df0921f2d1a57bce35a-oa-2-A.svg",
@@ -20067,17 +19796,6 @@
                 "10ad0aebece647c49fec0e3a247a5205-ao-1-A.svg",
                 "10ad0aebece647c49fec0e3a247a5205-ao-1-Q.svg",
                 "10ad0aebece647c49fec0e3a247a5205-ao-O.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-1-A.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-1-Q.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-2-A.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-2-Q.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-3-A.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-3-Q.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-4-A.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-4-Q.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-5-A.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-5-Q.svg",
-                "13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg",
                 "1ea5f14d48c149f5abbf93744ffe45e5-ao-1-A.svg",
                 "1ea5f14d48c149f5abbf93744ffe45e5-ao-1-Q.svg",
                 "1ea5f14d48c149f5abbf93744ffe45e5-ao-2-A.svg",
@@ -20106,6 +19824,13 @@
                 "2e50d30c90c147969eeb49dd99fb8482-oa-4-A.svg",
                 "2e50d30c90c147969eeb49dd99fb8482-oa-4-Q.svg",
                 "2e50d30c90c147969eeb49dd99fb8482-oa-O.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-1-A.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-1-Q.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-2-A.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-2-Q.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-3-A.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-3-Q.svg",
+                "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-O.svg",
                 "33a5910a38a64671926097b5b4a4e6d0-ao-1-A.svg",
                 "33a5910a38a64671926097b5b4a4e6d0-ao-1-Q.svg",
                 "33a5910a38a64671926097b5b4a4e6d0-ao-2-A.svg",
@@ -20217,32 +19942,12 @@
                 "5a66d3cb472846cfa71b934b3706fb0a-oa-3-A.svg",
                 "5a66d3cb472846cfa71b934b3706fb0a-oa-3-Q.svg",
                 "5a66d3cb472846cfa71b934b3706fb0a-oa-O.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-1-A.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-1-Q.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-2-A.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-2-Q.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-3-A.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-3-Q.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-4-A.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-4-Q.svg",
-                "5abbf3becba449068afe9ef58ac0e05c-ao-O.svg",
                 "5bfc083b4b7f430bae90b44e4f7549b0-oa-1-A.svg",
                 "5bfc083b4b7f430bae90b44e4f7549b0-oa-1-Q.svg",
                 "5bfc083b4b7f430bae90b44e4f7549b0-oa-O.svg",
                 "630e21440a23412d9a9276ec211ed187-oa-1-A.svg",
                 "630e21440a23412d9a9276ec211ed187-oa-1-Q.svg",
                 "630e21440a23412d9a9276ec211ed187-oa-O.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-1-A.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-1-Q.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-2-A.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-2-Q.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-3-A.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-3-Q.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-4-A.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-4-Q.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-5-A.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-5-Q.svg",
-                "638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg",
                 "6c0d05b7de424636a78085073fbbf752-oa-1-A.svg",
                 "6c0d05b7de424636a78085073fbbf752-oa-1-Q.svg",
                 "6c0d05b7de424636a78085073fbbf752-oa-O.svg",
@@ -20299,17 +20004,6 @@
                 "86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-6-A.svg",
                 "86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-6-Q.svg",
                 "86ce7fdb6ca34bd1ab016f7fd803a7cc-oa-O.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-1-A.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-1-Q.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-2-A.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-2-Q.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-3-A.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-3-Q.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-4-A.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-4-Q.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-5-A.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-5-Q.svg",
-                "8bf580bb2b8442a5865a711c804a4e75-ao-O.svg",
                 "91f44533d65c43c9b06f0fb35337a3d9-oa-1-A.svg",
                 "91f44533d65c43c9b06f0fb35337a3d9-oa-1-Q.svg",
                 "91f44533d65c43c9b06f0fb35337a3d9-oa-2-A.svg",
@@ -20346,12 +20040,18 @@
                 "97ac1155f6c14b6884fe3d5eda9ae4b9-oa-4-A.svg",
                 "97ac1155f6c14b6884fe3d5eda9ae4b9-oa-4-Q.svg",
                 "97ac1155f6c14b6884fe3d5eda9ae4b9-oa-O.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-1-A.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-1-Q.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-2-A.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-2-Q.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-3-A.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-3-Q.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-4-A.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-4-Q.svg",
+                "9e7c7a50c06042af99f55601f3c71c72-oa-O.svg",
                 "Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png",
                 "Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png",
-                "Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png",
                 "Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png",
-                "Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png",
-                "Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png",
                 "Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png",
                 "Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png",
                 "Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png",
@@ -20391,37 +20091,6 @@
                 "Screen Shot 2020-12-03 at 11.45.37 PM.png",
                 "Screen Shot 2020-12-04 at 10.36.15 AM.png",
                 "Screen Shot 2020-12-04 at 10.40.28 AM.png",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-1-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-1-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-10-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-10-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-11-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-11-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-12-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-12-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-13-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-13-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-14-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-14-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-15-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-15-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-2-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-2-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-3-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-3-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-4-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-4-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-5-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-5-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-6-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-6-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-7-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-7-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-8-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-8-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-9-A.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-9-Q.svg",
-                "a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg",
                 "ae2123b175df4b42b8897c6854f559c4-oa-1-A.svg",
                 "ae2123b175df4b42b8897c6854f559c4-oa-1-Q.svg",
                 "ae2123b175df4b42b8897c6854f559c4-oa-2-A.svg",
@@ -20476,23 +20145,6 @@
                 "b823b2d1932e4539ae932752cc7d73a0-oa-7-A.svg",
                 "b823b2d1932e4539ae932752cc7d73a0-oa-7-Q.svg",
                 "b823b2d1932e4539ae932752cc7d73a0-oa-O.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-1-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-1-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-2-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-2-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-3-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-3-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-4-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-4-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-5-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-5-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-6-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-6-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-7-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-7-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-8-A.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-8-Q.svg",
-                "ba03642c5fbf42888c469731e531f1b4-ao-O.svg",
                 "bd894999fc524f03b370b4326555da85-oa-1-A.svg",
                 "bd894999fc524f03b370b4326555da85-oa-1-Q.svg",
                 "bd894999fc524f03b370b4326555da85-oa-2-A.svg",
@@ -20505,8 +20157,6 @@
                 "bedd39dd2b2e4f499873ba83e8638b6e-ao-2-A.svg",
                 "bedd39dd2b2e4f499873ba83e8638b6e-ao-2-Q.svg",
                 "bedd39dd2b2e4f499873ba83e8638b6e-ao-O.svg",
-                "c463047c39d843a08b0e9ceb8506b0d9-oa-1-A.svg",
-                "c463047c39d843a08b0e9ceb8506b0d9-oa-1-Q.svg",
                 "c463047c39d843a08b0e9ceb8506b0d9-oa-2-A.svg",
                 "c463047c39d843a08b0e9ceb8506b0d9-oa-2-Q.svg",
                 "c463047c39d843a08b0e9ceb8506b0d9-oa-3-A.svg",
@@ -20569,34 +20219,6 @@
                 "daece30a842a483e81b184b55a6785ef-ao-4-A.svg",
                 "daece30a842a483e81b184b55a6785ef-ao-4-Q.svg",
                 "daece30a842a483e81b184b55a6785ef-ao-O.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-1-A.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-1-Q.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-2-A.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-2-Q.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-3-A.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-3-Q.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-4-A.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-4-Q.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-5-A.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-5-Q.svg",
-                "dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-1-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-1-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-2-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-2-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-3-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-3-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-4-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-4-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-5-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-5-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-6-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-6-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-7-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-7-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-8-A.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-8-Q.svg",
-                "dd3176e870a54fe094b815bb4dae4b29-ao-O.svg",
                 "df399d9ca775449a85c33a2c8d84c9fb-oa-1-A.svg",
                 "df399d9ca775449a85c33a2c8d84c9fb-oa-1-Q.svg",
                 "df399d9ca775449a85c33a2c8d84c9fb-oa-O.svg",
@@ -20605,6 +20227,23 @@
                 "e249b99a062e449b84c1647627686787-oa-2-A.svg",
                 "e249b99a062e449b84c1647627686787-oa-2-Q.svg",
                 "e249b99a062e449b84c1647627686787-oa-O.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-1-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-1-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-2-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-2-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-3-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-3-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-4-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-4-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-5-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-5-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-6-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-6-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-7-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-7-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-8-A.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-8-Q.svg",
+                "ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg",
                 "ede3b99d33684c87850c6b72e9030573-oa-1-A.svg",
                 "ede3b99d33684c87850c6b72e9030573-oa-1-Q.svg",
                 "ede3b99d33684c87850c6b72e9030573-oa-2-A.svg",
@@ -26807,27 +26446,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "c463047c39d843a08b0e9ceb8506b0d9-oa-1",
-                        " Requisitos del parto instrumental",
-                        "<img src=\"Screen Shot 2020-12-04 at 10.36.15 AM.png\" />",
-                        "<img src=\"c463047c39d843a08b0e9ceb8506b0d9-oa-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"c463047c39d843a08b0e9ceb8506b0d9-oa-1-A.svg\" />",
-                        "<img src=\"c463047c39d843a08b0e9ceb8506b0d9-oa-O.svg\" />"
-                    ],
-                    "guid": "i_))`]rP*o",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "c463047c39d843a08b0e9ceb8506b0d9-oa-5",
                         " Requisitos del parto instrumental",
                         "<img src=\"Screen Shot 2020-12-04 at 10.36.15 AM.png\" />",
@@ -29505,112 +29123,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Mecanismo</b> de accion de los <b>anticonceptivos combinados</b>",
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-1-A.svg\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg\" />"
-                    ],
-                    "guid": "^ZKj)RU@c",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Mecanismo</b>&nbsp;de accion de los&nbsp;<b>anticonceptivos combinados</b>",
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-2-A.svg\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg\" />"
-                    ],
-                    "guid": "ymPhA>=/t<",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Mecanismo</b>&nbsp;de accion de los&nbsp;<b>anticonceptivos combinados</b>",
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-3-A.svg\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg\" />"
-                    ],
-                    "guid": "iXfCgOD^tV",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Mecanismo</b>&nbsp;de accion de los&nbsp;<b>anticonceptivos combinados</b>",
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-4-A.svg\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg\" />"
-                    ],
-                    "guid": "An96dtMgAe",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Mecanismo</b>&nbsp;de accion de los&nbsp;<b>anticonceptivos combinados</b>",
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-5-A.svg\" />",
-                        "<img src=\"dd0f289e2de842f29ab3a6663d24ed72-ao-O.svg\" />"
-                    ],
-                    "guid": "dOwW!GvZg*",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Hormona que <b>inhibe la proliferación</b> excesiva del <b>endometrio</b>, evitando su hiperplasia.&nbsp;",
                         "Progesterona"
                     ],
@@ -29668,204 +29180,6 @@
                     ],
                     "guid": "LON%a,MICa",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-1-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-1"
-                    ],
-                    "guid": "z=hIBJ(ZUy",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-2-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-2"
-                    ],
-                    "guid": "f}*ZVcY<s0",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-3-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-3"
-                    ],
-                    "guid": "l{TMjzz!d1",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-4-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-4"
-                    ],
-                    "guid": "L0#oT$+zBC",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-5-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-5"
-                    ],
-                    "guid": "Ij^q}cw?VM",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-6-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-6"
-                    ],
-                    "guid": "zDtHIS=m*A",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-7-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-7"
-                    ],
-                    "guid": "g[gBg`rP($",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los AHC",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-8-A.svg\" />",
-                        "<img src=\"ba03642c5fbf42888c469731e531f1b4-ao-O.svg\" />",
-                        "ba03642c5fbf42888c469731e531f1b4-ao-8"
-                    ],
-                    "guid": "pN,p-yo-@&",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos beneficiosos de los anticonceptivos hormonales combinados (AHC)",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        ""
-                    ],
-                    "guid": "r*wf#PIAf)",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu",
                         "Anticonceptivos"
@@ -29986,442 +29300,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Tecnicas de reproduccion asistida y sus indicaciones&nbsp;",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-1-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-1"
-                    ],
-                    "guid": "IlUz4R:KbG",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-2-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-2"
-                    ],
-                    "guid": "GX1J5a=!0o",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-3-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-3"
-                    ],
-                    "guid": "G>RtNqIGl^",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-4-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-4"
-                    ],
-                    "guid": "x[^11fps<X",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-5-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-5"
-                    ],
-                    "guid": "L!(/iM(Pw{",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-6-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-6"
-                    ],
-                    "guid": "ovSFarlN)^",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-7-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-7"
-                    ],
-                    "guid": "wI|e;T0Hn=",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-8-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-8"
-                    ],
-                    "guid": "GdZti%4!<l",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-9-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-9-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-9"
-                    ],
-                    "guid": "BCmp)H~`{%",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-10-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-10-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-10"
-                    ],
-                    "guid": "og#R9O/B.K",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-11-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-11-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-11"
-                    ],
-                    "guid": "jQ,rAh<O-H",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-12-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-12-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-12"
-                    ],
-                    "guid": "s7)DG=9Iud",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\">",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-13-Q.svg\">",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-13-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-13"
-                    ],
-                    "guid": "mU>o>N4>&l",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-14-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-14-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-14"
-                    ],
-                    "guid": "n=UD{r[eN>",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.09.33 p. m..png\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-15-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-15-A.svg\" />",
-                        "<img src=\"a236dfe3dccd4141bda52dd4a86ba181-ao-O.svg\" />",
-                        "a236dfe3dccd4141bda52dd4a86ba181-ao-15"
-                    ],
-                    "guid": "KoUu$;h|qv",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas basicas en el estudio de los abortos de repeticion",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-1-A.svg\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-O.svg\" />",
-                        "8bf580bb2b8442a5865a711c804a4e75-ao-1"
-                    ],
-                    "guid": "I&|rTN4eMh",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas basicas en el estudio de los abortos de repeticion",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-2-A.svg\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-O.svg\" />",
-                        "8bf580bb2b8442a5865a711c804a4e75-ao-2"
-                    ],
-                    "guid": "pr#wNOM8MQ",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas basicas en el estudio de los abortos de repeticion",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-3-A.svg\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-O.svg\" />",
-                        "8bf580bb2b8442a5865a711c804a4e75-ao-3"
-                    ],
-                    "guid": "dj7l|ta]h&",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas basicas en el estudio de los abortos de repeticion",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-4-A.svg\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-O.svg\" />",
-                        "8bf580bb2b8442a5865a711c804a4e75-ao-4"
-                    ],
-                    "guid": "j#*N3ppFxJ",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Pruebas basicas en el estudio de los abortos de repeticion",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-5-A.svg\" />",
-                        "<img src=\"8bf580bb2b8442a5865a711c804a4e75-ao-O.svg\" />",
-                        "8bf580bb2b8442a5865a711c804a4e75-ao-5"
-                    ],
-                    "guid": "f5R(Cp`uX%",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Son los tumores epiteliales ovaricos <b>mas frecuentes</b>, con calcificaciones en su interior&nbsp;<b>(cuerpos de psamoma)</b>",
                         "Serosos"
                     ],
                     "guid": "klYSnH1VWK",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Es el tumor epitelial ovarico que mas se asocia a <b>endometriosis</b>",
-                        "de celulas claras"
-                    ],
-                    "guid": "A?L[Hq)Wb!",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -30490,216 +29372,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Criterios de malignidad de tumor ovarico ",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-1-A.svg\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg\" />",
-                        "13a2a5280faa43fc83f72ae3344f8abc-ao-1"
-                    ],
-                    "guid": "QSbWV.k?~4",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de malignidad de tumor ovarico ",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-2-A.svg\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg\" />",
-                        "13a2a5280faa43fc83f72ae3344f8abc-ao-2"
-                    ],
-                    "guid": "voFPo}d5#)",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de malignidad de tumor ovarico ",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-3-A.svg\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg\" />",
-                        "13a2a5280faa43fc83f72ae3344f8abc-ao-3"
-                    ],
-                    "guid": "nRBX,TXc|m",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de malignidad de tumor ovarico ",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-4-A.svg\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg\" />",
-                        "13a2a5280faa43fc83f72ae3344f8abc-ao-4"
-                    ],
-                    "guid": "iOo@9NvHNK",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de malignidad de tumor ovarico ",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.34.37 p. m..png\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-5-A.svg\" />",
-                        "<img src=\"13a2a5280faa43fc83f72ae3344f8abc-ao-O.svg\" />",
-                        "13a2a5280faa43fc83f72ae3344f8abc-ao-5"
-                    ],
-                    "guid": "n?#%m>`zYB",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de benignidad de tumor ovarico",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-1-A.svg\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg\" />",
-                        "638712596cb44b7e80e0ea9e936ebf3e-ao-1"
-                    ],
-                    "guid": "xDOwno6_O[",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de benignidad de tumor ovarico",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-2-A.svg\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg\" />",
-                        "638712596cb44b7e80e0ea9e936ebf3e-ao-2"
-                    ],
-                    "guid": "ANDir`80(^",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de benignidad de tumor ovarico",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-3-A.svg\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg\" />",
-                        "638712596cb44b7e80e0ea9e936ebf3e-ao-3"
-                    ],
-                    "guid": "C&rt7+GO+4",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de benignidad de tumor ovarico",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-4-A.svg\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg\" />",
-                        "638712596cb44b7e80e0ea9e936ebf3e-ao-4"
-                    ],
-                    "guid": "vv}z~yxfn^",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Criterios de benignidad de tumor ovarico",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 4.40.31 p. m..png\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-5-A.svg\" />",
-                        "<img src=\"638712596cb44b7e80e0ea9e936ebf3e-ao-O.svg\" />",
-                        "638712596cb44b7e80e0ea9e936ebf3e-ao-5"
-                    ],
-                    "guid": "ial.U]]E3@",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Tratamiento fundamental/estadificacion del cancer de ovario&nbsp;",
                         "Cirugia diagnostica y citorreductora:<div>- L<span style=\"color: rgb(51, 51, 51);\">avado peritoneal</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Histerectomía con doble anexectomía</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Omentectomia&nbsp;</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Linfadenectomía pélvica y paraaórtica&nbsp;</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Biopsias peritoneales de zonas sospechosas</span></div><div><span style=\"color: rgb(51, 51, 51);\">- A</span><span style=\"color: rgb(51, 51, 51);\">pendicectomía(<b><u>mucinosos</u></b>)</span></div>"
                     ],
@@ -30717,174 +29389,6 @@
                     ],
                     "guid": "rKb)RmDe4t",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-1-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-1"
-                    ],
-                    "guid": "kP:vd_uW+}",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-2-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-2"
-                    ],
-                    "guid": "myC_?GUv@Q",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-3-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-3"
-                    ],
-                    "guid": "z{iB_`=6v(",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-4-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-4"
-                    ],
-                    "guid": "eWT&*o=8B(",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-5-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-5"
-                    ],
-                    "guid": "x;1]JdzvRf",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-6-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-6"
-                    ],
-                    "guid": "o8k6X7m[LO",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-7-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-7"
-                    ],
-                    "guid": "c&bJ}/om#r",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Marcadores tumorales de ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-8-A.svg\" />",
-                        "<img src=\"dd3176e870a54fe094b815bb4dae4b29-ao-O.svg\" />",
-                        "dd3176e870a54fe094b815bb4dae4b29-ao-8"
-                    ],
-                    "guid": "Dz/_aj;^$6",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
                     ]
@@ -30940,90 +29444,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Tecnicas invasivas de diagnostico prenatal",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-1-A.svg\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-O.svg\" />",
-                        "5abbf3becba449068afe9ef58ac0e05c-ao-1"
-                    ],
-                    "guid": "ohA=z[Wnqr",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tecnicas invasivas de diagnostico prenatal",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-2-A.svg\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-O.svg\" />",
-                        "5abbf3becba449068afe9ef58ac0e05c-ao-2"
-                    ],
-                    "guid": "rF33>}:&Ql",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tecnicas invasivas de diagnostico prenatal",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-3-A.svg\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-O.svg\" />",
-                        "5abbf3becba449068afe9ef58ac0e05c-ao-3"
-                    ],
-                    "guid": "q*St0KNvzG",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tecnicas invasivas de diagnostico prenatal",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-4-A.svg\" />",
-                        "<img src=\"5abbf3becba449068afe9ef58ac0e05c-ao-O.svg\" />",
-                        "5abbf3becba449068afe9ef58ac0e05c-ao-4"
-                    ],
-                    "guid": "f-17tm5?4b",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "¿Cual es el <b>MEJOR</b> metodo de <b>cribado</b> para la <b>trisomia 21</b>?",
                         "ADN fetal libre circulante (ADN-lc)&nbsp;<div><font color=\"#fc0107\">***pero no es universal por su alto coste***</font></div>"
                     ],
@@ -31060,8 +29480,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Criterios de crecimiento intrauterino restringido (CIR)",
-                        "-Peso &lt; p3<div>-Peso entre p3 y p10 con alteraciones Doppler:&nbsp;</div><div>&nbsp; &nbsp; ~ Indice de pulsatilidad (IP) de la arteria uterina &gt;p95</div><div>&nbsp; &nbsp; ~ IP medio de arterias utrinas &gt;p95</div><div>&nbsp; &nbsp; ~ Indice cerebroplacentario (ICP) &lt;p5</div><div><br></div>"
+                        "Criterios de <b>crecimiento intrauterino restringido</b> (CIR)",
+                        "-Peso &lt; p3<div><br><div>-Peso entre p3 y p10 con alteraciones Doppler:&nbsp;</div><div>&nbsp; &nbsp; ~ Indice de pulsatilidad (IP) de la arteria uterina &gt;p95</div><div>&nbsp; &nbsp; ~ Indice cerebroplacentario (ICP) &lt;p5</div><div><br></div></div>"
                     ],
                     "guid": "P,~=w.Q*J;",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
@@ -31089,384 +29509,6 @@
                     ],
                     "guid": "sD/xP+I@u;",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-1-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-1"
-                    ],
-                    "guid": "ebyv2*wIU7",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-2-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-2-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-2"
-                    ],
-                    "guid": "G[c!s`&82.",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-3-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-3"
-                    ],
-                    "guid": "FX8!kO9tr:",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-4-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-4-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-4"
-                    ],
-                    "guid": "IRx#W>4efS",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-5-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-5"
-                    ],
-                    "guid": "o]e*Dgi)uf",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-6-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-6-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-6"
-                    ],
-                    "guid": "P;RZFHU-*s",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-7-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-7"
-                    ],
-                    "guid": "slgJvX.5VM",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-8-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-8-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-8"
-                    ],
-                    "guid": "i_&l{;.[|/",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-9-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-9-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-9"
-                    ],
-                    "guid": "QW,lVeP^<Q",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-10-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-10-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-10"
-                    ],
-                    "guid": "f:I]8I%UD%",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-11-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-11-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-11"
-                    ],
-                    "guid": "e({[GD!9LE",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-12-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-12-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-12"
-                    ],
-                    "guid": "N/2=Cl6$m!",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-13-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-13-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-13"
-                    ],
-                    "guid": "QTeX(y_S|@",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-14-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-14-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-14"
-                    ],
-                    "guid": "PFSc*r/{rO",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-15-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-15-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-15"
-                    ],
-                    "guid": "LBy%&knMm%",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-16-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-16-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-16"
-                    ],
-                    "guid": "kj]=4s,oj/",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-17-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-17-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-17"
-                    ],
-                    "guid": "s4(&FyXsr`",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Diagnostico diferencial de las hemorragias del tercer trimestre",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-18-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-18-A.svg\" />",
-                        "<img src=\"06258ddc5f45440a91d6c8b1e1f0c298-ao-O.svg\" />",
-                        "06258ddc5f45440a91d6c8b1e1f0c298-ao-18"
-                    ],
-                    "guid": "JuaZ/q&*FL",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
                     ]
@@ -31611,6 +29653,514 @@
                     ],
                     "guid": "kq[xk,c&y1",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-1",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-1-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "Grg(>0er^j",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-2",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-2-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "vkYrqERZZB",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-3",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-3-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "qP)G%]ls.[",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-4",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-4-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "G*mi$cI.L/",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-5",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-5-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "O4G|_YmVtQ",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "04159343edd3480bb0a265cf82bd014d-ao-6",
+                        "Marcadores tumorales del ovario",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-6-A.svg\" />",
+                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
+                    ],
+                    "guid": "J=x!<P*mTL",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-1",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-1-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "bY!5&b;jba",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-2",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-2-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "PXiXX24`/S",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-3",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-3-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "hm}$7~cc+,",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-4",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-4-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "Q%iSN#!>~`",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-5",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-5-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-5-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "Fv84Vo4Ml%",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-6",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-6-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-6-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "B~`yF.l;^:",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-7",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-7-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-7-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "gPKJR%A~|h",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "ec9d34f11fe741868ec0338d5f8f84dc-ao-8",
+                        "Diagnóstico diferencial de las metrorragias del tercer trimestre",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 7.02.54 p. m..png\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-8-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-8-A.svg\" />",
+                        "<img src=\"ec9d34f11fe741868ec0338d5f8f84dc-ao-O.svg\" />"
+                    ],
+                    "guid": "w[qq(}UR=N",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-1",
+                        "Técnicas invasivas de diagnóstico prenatal",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-1-A.svg\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-O.svg\" />"
+                    ],
+                    "guid": "t3DIIM]1@W",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-2",
+                        "Técnicas invasivas de diagnóstico prenatal",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-2-A.svg\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-O.svg\" />"
+                    ],
+                    "guid": "z_&,~^naRz",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-3",
+                        "Técnicas invasivas de diagnóstico prenatal",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 6.04.24 p. m..png\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-3-A.svg\" />",
+                        "<img src=\"2f182fbc8ba141f8b3bb0f05d04dc3ea-ao-O.svg\" />"
+                    ],
+                    "guid": "c|:4vF;6X#",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "080596f8b9694e65b4281535272c409a-ao-1",
+                        "Pruebas basicas en el estudio de los abortos de repeticion",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 3.29.43 p. m..png\" />",
+                        "<img src=\"080596f8b9694e65b4281535272c409a-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"080596f8b9694e65b4281535272c409a-ao-1-A.svg\" />",
+                        "<img src=\"080596f8b9694e65b4281535272c409a-ao-O.svg\" />"
+                    ],
+                    "guid": "l1,:Ktk^iH",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9e7c7a50c06042af99f55601f3c71c72-oa-1",
+                        "Efectos beneficiosos de la terapia hormonal combinada",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-1-A.svg\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-O.svg\" />"
+                    ],
+                    "guid": "HP(bl5NxwE",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu",
+                        "Anticonceptivos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9e7c7a50c06042af99f55601f3c71c72-oa-2",
+                        "Efectos beneficiosos de la terapia hormonal combinada",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-2-A.svg\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-O.svg\" />"
+                    ],
+                    "guid": "G?W-/g<>[z",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu",
+                        "Anticonceptivos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9e7c7a50c06042af99f55601f3c71c72-oa-3",
+                        "Efectos beneficiosos de la terapia hormonal combinada",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-3-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-3-A.svg\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-O.svg\" />"
+                    ],
+                    "guid": "N@5GY5dT(L",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu",
+                        "Anticonceptivos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "9e7c7a50c06042af99f55601f3c71c72-oa-4",
+                        "Efectos beneficiosos de la terapia hormonal combinada",
+                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 12.33.01 p. m..png\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-4-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-4-A.svg\" />",
+                        "<img src=\"9e7c7a50c06042af99f55601f3c71c72-oa-O.svg\" />"
+                    ],
+                    "guid": "kGX^K!qW*z",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu",
+                        "Anticonceptivos"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07cc2d117e0442308fde349414054882-ao-1",
+                        "Mecanismo de accion de los anticonceptivos combinados",
+                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-1-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-1-A.svg\" />",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-O.svg\" />"
+                    ],
+                    "guid": "hvx=mEAEWG",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
+                    "tags": [
+                        "Anjogu"
+                    ]
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "07cc2d117e0442308fde349414054882-ao-2",
+                        "Mecanismo de accion de los anticonceptivos combinados",
+                        "<img src=\"Captura de Pantalla 2020-12-25 a la(s) 9.24.15 a. m..png\" />",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-2-Q.svg\" />",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-2-A.svg\" />",
+                        "<img src=\"07cc2d117e0442308fde349414054882-ao-O.svg\" />"
+                    ],
+                    "guid": "P_,muZHhr~",
+                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
                     ]
@@ -43142,8 +41692,8 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Complicaci;in respiratorio y neurlógica de sarampión?",
-                        "Neurológica: encefalitis, Panencefalitis esclerosante<div>Neumonía: intersticial de células gigantes de Hetch</div><div>Otitis media</div><div><br /></div>"
+                        "Complicación&nbsp;neurológica y respiratoria de <b>sarampión</b>?",
+                        "Neurológica: encefalitis, Panencefalitis esclerosante<div><br><div>Respiratorio: Neumonía intersticial de células gigantes de Hetch</div><div>Otitis media</div><div><br></div></div>"
                     ],
                     "guid": "CBt7Zi^TLq",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
@@ -43250,7 +41800,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Profilaxis a contactos de nino con meningitis por haemophilus? durante cuato tiempo?",
+                        "Profilaxis a contactos de nino con meningitis por <b>haemophilus</b>? durante cuato tiempo?",
                         "Rifampicina por 4 días"
                     ],
                     "guid": "l3<Q}.o@u6",
@@ -48283,6 +46833,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Tipo de HLA en espondilitis anquilosante? Es pronóstico? En que enfermedad lo es?",
+                        "B27<div>NO es pronóstico</div><div>Si lo es en Sd de Reiter.</div>"
+                    ],
+                    "guid": "q/k~_kGy0N",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "Síndrome que incluye tetralogía de Fallot con disfunción tímica en el periodo neonatal, hipocalcemia y voz nasal junto a retraso psicomotor?",
                         "Síndrome de Di George",
                         ""
@@ -50889,18 +49449,6 @@
                         "TB<div><font color=\"#aa0000\"><b>hiperuricemia</b></font>, hepatotoxicidad, erupciones cutáneas</div>"
                     ],
                     "guid": "kg&xEdfr<6",
-                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "IECAs? MA? EAs?",
-                        "Inhibidor de enzima convertidora de angiotensina, vasodilatadores venoso y arterial<div><div>EAs: tos seca, hiperkalemia</div></div>"
-                    ],
-                    "guid": "na%ljCn~~?",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": [
                         "Anjogu"
@@ -77111,6 +75659,16 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Triada de sd de Reiter? y agentes etiológicos? HLA implicado?",
+                        "Uretritis, artritis oligo asimétrica, conjuntivitis trasn infección genitourinaria por chlamydia&nbsp;<div>HLA b27</div><div><i style=\"font-weight: bold; \">\"GISELLA </i>Shigella</div><div><i style=\"font-weight: bold; \">AYER &nbsp;</i>yersinia</div><div><i style=\"font-weight: bold; \">SALIÓ </i>salmonella</div><div><i style=\"font-weight: bold; \">AL CAMPO </i>campylobacter</div><div><b><i><br /></i></b></div>"
+                    ],
+                    "guid": "o2&hw7^zzI",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "A ue enfermedades predispone deficit de vía clásica C1,2,3 y 4?",
                         "autoinmunes por depósito de inmunocomplejos o infecciones piogénicas"
                     ],
@@ -77241,6 +75799,16 @@
                         "+ característica: escleritis.<div>+ frecuente: queratoconjuntivitis seca</div>"
                     ],
                     "guid": "Rh|vvk$@GE",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Tratamiento del Sd de Reiter?",
+                        "AINEs (indometacina), si no funciona FARAL (sulfazalacina) o biológicos (etanercept).<div>ATB en infecciones urogenitales pero no digestivas</div>"
+                    ],
+                    "guid": "CU$2Rh.bX+",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": []
                 },
@@ -78544,6 +77112,16 @@
                     ],
                     "guid": "rQT1$4n$2*",
                     "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cuál es la única artropatía que eleva el complemento el líquido sinovial?",
+                        "Enf de Reiter."
+                    ],
+                    "guid": "C`Pa25q~1>",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": []
                 },
                 {
