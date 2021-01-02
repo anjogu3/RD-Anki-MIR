@@ -2413,17 +2413,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "El <font color=\"#9f249b\">Hemibloqueo Izquierdo Anterior</font> se define por la presencia de un eje superior izquierdo <font color=\"#3ea823\">más allá</font><font color=\"#ec458f\"> de -30º</font>. Para ello, el patrón de QRS debe ser positivo en I-aVL y negativo en II-III-aVF, <b>en aVR da igual</b>: si leemos “<font color=\"#3ea823\">Pe</font>” cuando el QRS es positivo, “<font color=\"#ec458f\">Ne</font>” cuando es negativo y “<b>Da</b>” cuando da igual, leyendo las derivaciones de miembros por orden (I-II-III-aVR-aVL-aVF) queda la siguiente regla mnemotécnica?",
-                        "<font color=\"#3ea823\">Pe</font><font color=\"#ec458f\">NeNe</font><b>Da</b><font color=\"#3ea823\">Pe</font><font color=\"#ec458f\">Na</font>",
-                        ""
-                    ],
-                    "guid": "bL}2$A^/*o",
-                    "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "La reestenosis de un stent coronario se debe a proliferación de?",
                         "La <font color=\"#ec458f\">íntima</font> y <font color=\"#ec458f\"><b>muscular</b></font> del vaso",
                         ""
@@ -5077,6 +5066,26 @@
                         "Borrelia burgdorferi<div>Ixodes</div><div>eritema crónico migrans</div>"
                     ],
                     "guid": "uKx%(PFr$/",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Carcinoma basocelular: tto y alternativa?",
+                        "Resección quirúrgica, si no se puede, vismogedib"
+                    ],
+                    "guid": "Eu6{Q=4>Vh",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cuál es el marcador pronóstico más fidedigno de melanoma no metastásico?",
+                        "Índice de Breslow<div><br /></div>"
+                    ],
+                    "guid": "E/~W,P-jB^",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": []
                 },
@@ -11387,6 +11396,16 @@
                     ],
                     "guid": "BPb:%ObfW`",
                     "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "MEN 2B: órganos afectos?",
+                        "Fenotipo marfanoide, neuromas mucoso, feocromocitoma y cancer medular de tiroides"
+                    ],
+                    "guid": "hm@<rafzq:",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": []
                 },
                 {
@@ -18574,17 +18593,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "La variable:&nbsp;<b>porcentaje</b> de hipertensos, es cualitativa o cuantitativa?",
-                        "Cualitativa",
-                        ""
-                    ],
-                    "guid": "s|#g%z+Auh",
-                    "note_model_uuid": "c3b329f3-0257-11eb-9d7d-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Qué tipo de estudio evaluan las normas CONSORT, STROBE, STARD, PRISMA-QUORUM, EQUATOR?",
                         "CONSORT: ensayos clínicos.<div>STROBE: observacionales.</div><div>STARD: pruebas Dx.</div><div>PRISMA-QUORUM: metaanálisis.</div><div>EQUATOR: correcta escritura de articulos.</div>"
                     ],
@@ -19115,18 +19123,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Es la <b>medida de asociacion</b> en los estudios de <b>cohorte</b>. Mide la <b>fuerza de asociacion</b> entre el factor de riesgo y la enfermedad. Va entre <b>0 e infinito</b>.&nbsp;",
-                        "Riesgo reativo&nbsp; (RR)"
-                    ],
-                    "guid": "qC9[$AD(C0",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Si el valor del RR es &gt; 1 significa que la variable es:&nbsp;",
                         "Un factor de riesgo (FR)"
                     ],
@@ -19155,18 +19151,6 @@
                         "Un factor protector (FP).&nbsp;"
                     ],
                     "guid": "gBUljD3L7y",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "La formula del riesgo relativo (RR) es:&nbsp;",
-                        "RR= incidencia en expuestos / incidencia en no expuestos&nbsp;"
-                    ],
-                    "guid": "o8JV/cEbTx",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -19211,18 +19195,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "¿Cuando se considera que el <b>intervalo de confianza</b> (IC) es <b>significativo</b>?&nbsp;",
-                        "Cuando NO incluye el valor nulo.&nbsp;<div><br></div><div><font color=\"#fc0107\">*1 en el caso de las medidas de asociacion*</font></div>"
-                    ],
-                    "guid": "ioyfiWEA&K",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Es el <b>tipo de muestreo</b> en el que cada individuo <b>tiene las mismas probabilidades</b> de ser parte de la muestra",
                         "Muestreo aleatorio simple"
                     ],
@@ -19239,42 +19211,6 @@
                         "Muestreo aleatorio estratificado"
                     ],
                     "guid": "E;}h{f(tFl",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "En este <b>tipo de muestreo</b> el proceso de seleccion se basa en una <b>regla simple</b>, como elegir <b>uno de cada x individuos.&nbsp;</b>",
-                        "Muestreo sistematico&nbsp;"
-                    ],
-                    "guid": "IU{h7AG?i^",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "En este <b>tipo de muestreo</b> se utiliza como<b> base el grupo de sujetos</b> con el objetivo de reducir costes.&nbsp;",
-                        "Muestreo por conglomerado"
-                    ],
-                    "guid": "f]%ftA=e3D",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Para conocer la <b>imprecision</b> esperada al <b>estimar la media</b> de una variable hay que calcular el:&nbsp;",
-                        "Error estandar (ee)"
-                    ],
-                    "guid": "M$vb1uUj_B",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -19355,18 +19291,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Si al comparar <b>2 tratamientos</b> el valor de <b>p es &lt; 0.05</b>, significa que:&nbsp;",
-                        "- Existen diferencias reales con poca probabilidad que se deban al azar.&nbsp;<div>- Se acepta H<sub>1</sub> y se rechaza H<sub>0</sub>.&nbsp;</div>"
-                    ],
-                    "guid": "I]yM{sN_uB",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Si al comparar <b>2 tratamientos</b> el valor de <b>p es &gt; 0.05, </b>significa que:&nbsp;",
                         "- Las diferencias pueden ser debidas al azar<div>- No se rechaza H<sub>0</sub>&nbsp;</div>"
                     ],
@@ -19403,18 +19327,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "El <b>error</b> que se comete cuando se acepta que no hay diferencias donde si las hay (<b>Acepto/no rechazo H<sub>0</sub> siendo falsa</b>) se conoce como:&nbsp;",
-                        "Error tipo II&nbsp;"
-                    ],
-                    "guid": "hyOT}M;mn4",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Es la <b>probabilidad</b> de cometer el <b>error tipo II</b>:&nbsp;",
                         "<span style=\"color: rgb(32, 33, 34);\">β (20%)</span>"
                     ],
@@ -19427,34 +19339,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Es la capacidad de <b>detectar diferencias donde si las hay</b> o la probabilidad de <b>aceptar H1 siendo cierta</b>:&nbsp;",
-                        "Poder o potencia (80%)"
-                    ],
-                    "guid": "kZ(m@S@(/Q",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Son pruebas con <b>menor precision</b> que se limitan a estudios con <b>muestras &lt; 30n</b> en los que la <b>poblacion NO se distribuye de manera normal.</b>&nbsp;",
                         "Test no parametricos&nbsp;"
                     ],
                     "guid": "nf&f,x.+~8",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "El <b>metodo</b> <b>estadistico</b>&nbsp;mas utilizado en el <b>analisis de supervivencia</b> es:&nbsp;",
-                        "Curva o test de Kaplan-Meier"
-                    ],
-                    "guid": "xqzk@,3MS[",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -19766,8 +19654,6 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
-                "04159343edd3480bb0a265cf82bd014d-ao-1-A.svg",
-                "04159343edd3480bb0a265cf82bd014d-ao-1-Q.svg",
                 "04159343edd3480bb0a265cf82bd014d-ao-2-A.svg",
                 "04159343edd3480bb0a265cf82bd014d-ao-2-Q.svg",
                 "04159343edd3480bb0a265cf82bd014d-ao-3-A.svg",
@@ -19984,8 +19870,6 @@
                 "8677905bd1fe45238f98d426e03ba6c7-ao-3-Q.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-4-A.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-4-Q.svg",
-                "8677905bd1fe45238f98d426e03ba6c7-ao-5-A.svg",
-                "8677905bd1fe45238f98d426e03ba6c7-ao-5-Q.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-6-A.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-6-Q.svg",
                 "8677905bd1fe45238f98d426e03ba6c7-ao-7-A.svg",
@@ -20142,8 +20026,6 @@
                 "b823b2d1932e4539ae932752cc7d73a0-oa-5-Q.svg",
                 "b823b2d1932e4539ae932752cc7d73a0-oa-6-A.svg",
                 "b823b2d1932e4539ae932752cc7d73a0-oa-6-Q.svg",
-                "b823b2d1932e4539ae932752cc7d73a0-oa-7-A.svg",
-                "b823b2d1932e4539ae932752cc7d73a0-oa-7-Q.svg",
                 "b823b2d1932e4539ae932752cc7d73a0-oa-O.svg",
                 "bd894999fc524f03b370b4326555da85-oa-1-A.svg",
                 "bd894999fc524f03b370b4326555da85-oa-1-Q.svg",
@@ -20521,10 +20403,30 @@
                 {
                     "__type__": "Note",
                     "fields": [
+                        "Diagnóstico lab e imagen de SOP?",
+                        "Lab: LH:FSH 2:1<div>Imagen: ovario &gt;10ml, folículos de 9-12mm</div>"
+                    ],
+                    "guid": "A%;B)GR,c:",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
                         "2 opciones de Tratamiento de infertilidad en pacientes con SOP?",
                         "Citrato de clomifeno &nbsp;o FSH pura"
                     ],
                     "guid": "Q?*(-yB[gB",
+                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Cuand se indica la fecundación in vitro?",
+                        "Obstrucción bilateral de trompas de falopio, oligoastenospermia, fallos de inseminación artificial"
+                    ],
+                    "guid": "gm>uBzt|~@",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
                     "tags": []
                 },
@@ -28208,27 +28110,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "8677905bd1fe45238f98d426e03ba6c7-ao-5",
-                        "Diagnóstico diferencial de las principales causas de amenorrea primaria",
-                        "<img src=\"tmp2npojka_.png\" />",
-                        "<img src=\"8677905bd1fe45238f98d426e03ba6c7-ao-5-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"8677905bd1fe45238f98d426e03ba6c7-ao-5-A.svg\" />",
-                        "<img src=\"8677905bd1fe45238f98d426e03ba6c7-ao-O.svg\" />"
-                    ],
-                    "guid": "tGItb|{6wC",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "8677905bd1fe45238f98d426e03ba6c7-ao-6",
                         "Diagnóstico diferencial de las principales causas de amenorrea primaria",
                         "<img src=\"tmp2npojka_.png\" />",
@@ -28347,27 +28228,6 @@
                         "<img src=\"b823b2d1932e4539ae932752cc7d73a0-oa-O.svg\" />"
                     ],
                     "guid": "dkI9aqYmTm",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "b823b2d1932e4539ae932752cc7d73a0-oa-7",
-                        "",
-                        "<img src=\"Screen Shot 2020-12-01 at 8.30.47 PM.png\" />",
-                        "<img src=\"b823b2d1932e4539ae932752cc7d73a0-oa-7-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"b823b2d1932e4539ae932752cc7d73a0-oa-7-A.svg\" />",
-                        "<img src=\"b823b2d1932e4539ae932752cc7d73a0-oa-O.svg\" />"
-                    ],
-                    "guid": "qcBeEw<5:t",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
@@ -29136,62 +28996,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<div>\n<div>\n<div>\n<ul>\n<li>\n<div><b>Progestágeno</b> beneficioso para la\nretención de líquidos y útil para el <span style=\"font-weight: 700;\">síndrome premestrual.&nbsp;</span></div>\n</li>\n</ul>\n</div>\n</div></div>",
-                        "Drospirenona (DRSP)"
-                    ],
-                    "guid": "e>TNS9X90)",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "<div>\n<div>\n<div>\n<ul>\n<li>\n<div><b>Progestágeno</b> con <b>mal&nbsp;perfil lipídico</b> (aumenta TG y LDL y disminuye HDL), pero con&nbsp;<span style=\"font-weight: 700;\">menor riesgo de\n</span><span style=\"font-weight: 700;\">tromboembolismo (TEV).&nbsp;</span></div>\n</li>\n</ul>\n</div>\n</div></div>",
                         "Levonorgestrel (LNG)"
                     ],
                     "guid": "h?.jWozqjN",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Progestageno</b>&nbsp;con <b>mejor perfil lipidico</b> pero con <b>mayor riesgo de tromboembolismo (TVE)</b>",
-                        "Gestodeno / Desogestrel"
-                    ],
-                    "guid": "NVbZH)]64[",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "<b>Progestageno</b> con <b>BUEN perfil lipidico </b>y <b>MENOR&nbsp;riesgo de tromboenvolismo (TVE)</b>",
-                        "Norgestimato&nbsp;"
-                    ],
-                    "guid": "LON%a,MICa",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu",
-                        "Anticonceptivos"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Efectos <b>adversos</b> <b>MAYORES</b> de los <b>AHC </b>(4)",
-                        "- TEV<div>- IAM</div><div>- Cancer de Mama</div><div>- Cancer de Cervix&nbsp;</div>"
-                    ],
-                    "guid": "z/fs;wEwXy",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu",
@@ -29264,18 +29072,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "<b>Pruebas/estudios</b>&nbsp;de la <b>pareja esteril&nbsp;</b>",
-                        "- Citologia cervical<div>- Ecografia transvaginal</div><div>- Estudio serologico (VHC, VHB, VIH, sifilis)</div><div>- Determinar progesterona 21-28d (evaluar ovulacion)&nbsp;</div><div>- Histerosalpingografia (permeabilidad tubarica)</div><div>- Seminograma&nbsp;&nbsp;</div><div>- Otras: PRL, TSH (si sospechas)&nbsp;</div>"
-                    ],
-                    "guid": "Jxwgqu$2lx",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Respuesta&nbsp;<span style=\"font-weight: 700;\">anormal</span>&nbsp;de los ovarios <b>a la\nestimulación hormonal</b>&nbsp;desencadenada tras administracion de <b>hCG</b> que provoca un <b>aumento de la permeabilidad vascular </b>con la consecuente aparicion de <b>crecimiento ovarico, ascitis, fracaso renal, tromboembolismo y SDRA.</b>&nbsp;",
                         "Sindrome de hiperestimulacion ovarica (SHO)"
                     ],
@@ -29300,34 +29096,10 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Son los tumores epiteliales ovaricos <b>mas frecuentes</b>, con calcificaciones en su interior&nbsp;<b>(cuerpos de psamoma)</b>",
-                        "Serosos"
-                    ],
-                    "guid": "klYSnH1VWK",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "Tumor epitelial ovarico que tipicamente es <b>unilateral</b> y en cuyo manejo es necesaria la realizacion de una <b>apendicectomia</b> a la paciente.&nbsp;",
                         "Mucinoso (tipo intestinal)"
                     ],
                     "guid": "n_{[3m()uK",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tumor <b>germinal</b> ovarico mas frecuente, habitual en <b>mujeres jovenes</b> y unilateral",
-                        "Teratoma quistico maduro"
-                    ],
-                    "guid": "C0P)*vIKlf",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -29352,42 +29124,6 @@
                         "Teratoma inmaduro"
                     ],
                     "guid": "uwVj3TUH]W",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Factores de riesgo de cancer de ovario",
-                        "- Nuligesta<div>- Posmenopausia</div><div>- Tratamiento previo con inductores de ovulacion</div><div>- Antecedentes familiares</div><div>- Antecedentes de otras neoplasias</div>"
-                    ],
-                    "guid": "Deaq$h[iU]",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Tratamiento fundamental/estadificacion del cancer de ovario&nbsp;",
-                        "Cirugia diagnostica y citorreductora:<div>- L<span style=\"color: rgb(51, 51, 51);\">avado peritoneal</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Histerectomía con doble anexectomía</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Omentectomia&nbsp;</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Linfadenectomía pélvica y paraaórtica&nbsp;</span></div><div><span style=\"color: rgb(51, 51, 51);\">- Biopsias peritoneales de zonas sospechosas</span></div><div><span style=\"color: rgb(51, 51, 51);\">- A</span><span style=\"color: rgb(51, 51, 51);\">pendicectomía(<b><u>mucinosos</u></b>)</span></div>"
-                    ],
-                    "guid": "G_sa-_}_B<",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Indicaciones de <b>quimioterapia adyuvante</b> en el <b>cancer de ovario</b>",
-                        "- Estadio IA o IB grado 3<div>- Estadios IC y II</div><div>- Tumor de celulas claras en cualquier estadio</div>"
-                    ],
-                    "guid": "rKb)RmDe4t",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -29424,42 +29160,6 @@
                         "Edad materna<div>B-hCG y PAPP-A</div><div>TN</div>"
                     ],
                     "guid": "z1g%Atews,",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "El <b>valor del cribado combinado</b> que se considera de <b>alto riesgo</b> y por tanto i<b>ndicacion de tecnica invasiva</b> es",
-                        "1/250"
-                    ],
-                    "guid": "gt9|Wu_2nf",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "¿Cual es el <b>MEJOR</b> metodo de <b>cribado</b> para la <b>trisomia 21</b>?",
-                        "ADN fetal libre circulante (ADN-lc)&nbsp;<div><font color=\"#fc0107\">***pero no es universal por su alto coste***</font></div>"
-                    ],
-                    "guid": "j%!Cl)a6Ah",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "¿Cual es el <b>mejor</b> <b>predictor</b> <b>ecografico</b> de crecimiento intrauterino restringido (<b>CIR</b>)?&nbsp;",
-                        "Flujometria doppler de las arterias uterinas/fetoplacentaria"
-                    ],
-                    "guid": "D/T=Fk.dC~",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -29544,18 +29244,6 @@
                         "- Cesarea anterior clasica (longitudinal)<div>- Embarazo tras rotura uterina&nbsp;</div><div>- Embarazo tras incision transmural (miomectomia)</div><div>- Infeccion activa por herpes</div><div>- Placenta previa o vasa previa</div><div>- Situacion transversa</div><div>- Cancer invasor del cervix&nbsp;</div>"
                     ],
                     "guid": "JBTfF4g~A(",
-                    "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "Duracion del puerperio",
-                        "40 dias (6 semanas)"
-                    ],
-                    "guid": "vgLV;#s=s@",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
                     "tags": [
                         "Anjogu"
@@ -29653,27 +29341,6 @@
                     ],
                     "guid": "kq[xk,c&y1",
                     "note_model_uuid": "b917fe38-36b8-11eb-be72-e0d4e86835a4",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "04159343edd3480bb0a265cf82bd014d-ao-1",
-                        "Marcadores tumorales del ovario",
-                        "<img src=\"Captura de Pantalla 2020-12-26 a la(s) 5.12.56 p. m..png\" />",
-                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-1-A.svg\" />",
-                        "<img src=\"04159343edd3480bb0a265cf82bd014d-ao-O.svg\" />"
-                    ],
-                    "guid": "Grg(>0er^j",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
                     ]
@@ -32701,7 +32368,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Cuál de los valores de las tres series NO se tiene en cuenta entre los criterios de aplasia medular grave?",
+                        "Cuál de los valores de las tres series NO se tiene en cuenta entre los criterios de <b>aplasia medular grave?</b>",
                         "<font color=\"#ec458f\">Anemia</font>",
                         ""
                     ],
@@ -41356,7 +41023,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Cuál &nbsp;ees el reservorio de la salmonella typhi y paratyphi en el humano?",
+                        "Cuál es el reservorio de la salmonella typhi y paratyphi en el humano?",
                         "vesicula biliar"
                     ],
                     "guid": "I)cN#r|qea",
@@ -42040,7 +41707,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Qué dos complicaciones neurológicas tiene el sarampión y que las diferencia?",
+                        "Qué dos complicaciones neurológicas tiene el <b>sarampión</b> y que las diferencia?",
                         "<b>Encefalitis </b>aparece <u>2-5 días</u> tras exantema.<div><br><div><b>Panencefalitis esclerosante subaguda</b>: tras <u>años de latencia</u> y en EEG complejos de Rademeker</div><div><br></div></div>"
                     ],
                     "guid": "tch.TfGXL?",
@@ -48098,16 +47765,6 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Mecanismo de acción del clomifeno? para que sirve y cuando es una respuesta normal?",
-                        "bloqueo de receptor de estrogenos en hipotálamo.<div>Normal: eleva GnRH consecuentemente FSH y LH demostrando reserva hipofisiaria hipotalámica</div>"
-                    ],
-                    "guid": "C|Bi#_e@R0",
-                    "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
-                    "tags": []
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
                         "El antídoto de los <font color=\"#48d8cd\">insecticidas organofosforados</font> (intoxicación parasimpáticomimética) es la?",
                         "Atropina",
                         ""
@@ -49171,7 +48828,7 @@
                     "__type__": "Note",
                     "fields": [
                         "Mecanismo de acción del natalizumab?",
-                        "Antifracción alfa 4 de integrina del endotelio vascular que impide paso de linfocitos a SNC. NO ANTI TNF alfa!!!!"
+                        "Anticuerpo contra integrina del endotelio vascular que impide paso de linfocitos a SNC.<div><br></div><div>Se usa en Esclerosis multiple grave y recividante</div>"
                     ],
                     "guid": "m{*CD2=~`f",
                     "note_model_uuid": "c3b39f18-0257-11eb-bef3-001a7dda7113",
@@ -63289,7 +62946,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Paciente que hace tres semanas fue diagnosticado de una otitis media aguda y tratado con antibioticoterapia que abandonó tras desaparecer el cuadro clínico y que en la exploración actual presenta reaparición de la otalgia, dolor retrocular, diplopía y otorrea. Que complicación tiene?",
+                        "Paciente que hace tres semanas fue diagnosticado de una otitis media aguda y tratado con antibioticoterapia que abandonó tras desaparecer el cuadro clínico y que en la exploración actual presenta reaparición de la <b>otalgia, dolor retrocular, diplopía y otorrea</b>. Que complicación tiene?",
                         "Petrositis",
                         ""
                     ],
@@ -69792,8 +69449,6 @@
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
-                "08bbef100b294664bcce2811bfc305f9-ao-1-A.svg",
-                "08bbef100b294664bcce2811bfc305f9-ao-1-Q.svg",
                 "08bbef100b294664bcce2811bfc305f9-ao-2-A.svg",
                 "08bbef100b294664bcce2811bfc305f9-ao-2-Q.svg",
                 "08bbef100b294664bcce2811bfc305f9-ao-3-A.svg",
@@ -69898,8 +69553,6 @@
                 "4722feeeee1a42a999afa43b264b3525-ao-1-Q.svg",
                 "4722feeeee1a42a999afa43b264b3525-ao-2-A.svg",
                 "4722feeeee1a42a999afa43b264b3525-ao-2-Q.svg",
-                "4722feeeee1a42a999afa43b264b3525-ao-3-A.svg",
-                "4722feeeee1a42a999afa43b264b3525-ao-3-Q.svg",
                 "4722feeeee1a42a999afa43b264b3525-ao-4-A.svg",
                 "4722feeeee1a42a999afa43b264b3525-ao-4-Q.svg",
                 "4722feeeee1a42a999afa43b264b3525-ao-5-A.svg",
@@ -71490,27 +71143,6 @@
                         "<img src=\"a9c1db2ff40f4c559319c7699cb5c791-ao-O.svg\" />"
                     ],
                     "guid": "jIlu!o1D6r",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "08bbef100b294664bcce2811bfc305f9-ao-1",
-                        "Complicaciones del trastorno de angustia",
-                        "<img src=\"tmpw_rl2rn6.png\" />",
-                        "<img src=\"08bbef100b294664bcce2811bfc305f9-ao-1-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"08bbef100b294664bcce2811bfc305f9-ao-1-A.svg\" />",
-                        "<img src=\"08bbef100b294664bcce2811bfc305f9-ao-O.svg\" />"
-                    ],
-                    "guid": "qk9:0_F#@e",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
@@ -74787,27 +74419,6 @@
                         "<img src=\"4722feeeee1a42a999afa43b264b3525-ao-O.svg\" />"
                     ],
                     "guid": "vPTk==E^f`",
-                    "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
-                    "tags": [
-                        "Anjogu"
-                    ]
-                },
-                {
-                    "__type__": "Note",
-                    "fields": [
-                        "4722feeeee1a42a999afa43b264b3525-ao-3",
-                        "Clasificación de las sustancias de abuso",
-                        "<img src=\"tmpdin1vozz.png\" />",
-                        "<img src=\"4722feeeee1a42a999afa43b264b3525-ao-3-Q.svg\" />",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "",
-                        "<img src=\"4722feeeee1a42a999afa43b264b3525-ao-3-A.svg\" />",
-                        "<img src=\"4722feeeee1a42a999afa43b264b3525-ao-O.svg\" />"
-                    ],
-                    "guid": "rEXC]j>X{+",
                     "note_model_uuid": "c3bb8e6b-0257-11eb-88d3-001a7dda7113",
                     "tags": [
                         "Anjogu"
@@ -80553,7 +80164,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 0,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
@@ -80598,7 +80209,7 @@
                     0
                 ],
                 "order": 0,
-                "perDay": 5,
+                "perDay": 10,
                 "separate": true
             },
             "replayq": true,
