@@ -10,8 +10,8 @@
   
   
   <g id="9600f1d174c84430bdeea5d91029a2bc-oa-5" class="qshape">
-   <rect stroke="#2D2D2D" height="22.30514" width="175.70482" y="196.21228" x="197.11474" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
-   <rect stroke="#2D2D2D" height="22.30514" width="234.29067" y="195.20218" x="594.58951" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FF7E7E" class="qshape"/>
+   <rect fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="197.11474" y="196.21228" width="175.70482" height="22.30514" stroke="#2D2D2D" class="qshape"/>
+   <rect fill="#FF7E7E" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="594.58951" y="195.20218" width="234.29067" height="22.30514" stroke="#2D2D2D" class="qshape"/>
   </g>
  </g>
 </svg>
