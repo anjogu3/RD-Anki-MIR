@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="973" height="792">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-1">
+   <rect height="55.44555" width="331.68318" y="60.47527" x="196.30695" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="57.42574" width="399.00991" y="59.48517" x="554.7228" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-2">
+   <rect height="28.71287" width="79.20792" y="175.32675" x="321.05943" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="29.70297" width="282.17822" y="130.7723" x="221.05943" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="18.81188" width="153.46535" y="227.802" x="270.56438" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-3">
+   <rect height="21.78218" width="126.73268" y="137.70299" x="685.41587" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="29.70297" width="74.25743" y="178.29705" x="717.09904" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="29.70297" width="223.76238" y="221.86141" x="643.83172" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-4">
+   <rect height="54.45545" width="285.14852" y="266.41586" x="617.09904" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25.74257" width="243.56436" y="267.40596" x="238.88121" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-5">
+   <rect height="35.64357" width="203.9604" y="337.70299" x="225.01983" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="33.66337" width="250.49505" y="338.69309" x="597.29706" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="2cda0a26c1df442f89087f03d62558c6-oa-6">
+   <g>
+    <rect height="25.74257" width="78.21782" y="520.87132" x="316.10894" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="30.69307" width="197.02971" y="559.48518" x="260.66339" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+   <g>
+    <rect height="24.75248" width="99.0099" y="518.89112" x="704.22776" stroke="#2D2D2D" fill="#FFEBA2"/>
+    <rect height="28.71287" width="123.76238" y="557.50498" x="690.36637" stroke="#2D2D2D" fill="#FFEBA2"/>
+   </g>
+  </g>
+ </g>
+</svg>

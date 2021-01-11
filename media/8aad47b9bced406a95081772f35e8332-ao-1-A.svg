@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="246">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_4" y="189.1852" x="1197.03712" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Confianza</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  <rect id="8aad47b9bced406a95081772f35e8332-ao-2" height="48.14815" width="379.62964" y="152.14816" x="660.92601" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8aad47b9bced406a95081772f35e8332-ao-3" height="48.14815" width="379.62964" y="92.88889" x="1049.81491" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="8aad47b9bced406a95081772f35e8332-ao-4" height="48.14815" width="379.62964" y="150.2963" x="1047.96303" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>

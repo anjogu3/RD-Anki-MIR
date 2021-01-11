@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="884.0000000000001" height="350">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="180.35996" y="128.57681" width="225.51633" height="26.86567" id="b823b2d1932e4539ae932752cc7d73a0-oa-2"/>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="213.69328" y="162.44535" width="289.28841" height="19.40299" id="b823b2d1932e4539ae932752cc7d73a0-oa-3"/>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="353.63752" y="190.78094" width="204.17606" height="25.37313" id="b823b2d1932e4539ae932752cc7d73a0-oa-4"/>
+  <rect stroke="#2D2D2D" fill="#FFEBA2" x="162.66058" y="222.14684" width="151.80158" height="22.38806" id="b823b2d1932e4539ae932752cc7d73a0-oa-5"/>
+  <line fill="#ff0000" stroke="#2D2D2D" stroke-width="3" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="68.23874" y1="263.43284" x2="292.11934" y2="263.43284" id="b823b2d1932e4539ae932752cc7d73a0-oa-6"/>
+  <line fill="#ff0000" stroke-width="3" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x1="163.76113" y1="267.91045" x2="165.25367" y2="267.91045" id="b823b2d1932e4539ae932752cc7d73a0-oa-7" stroke="#2D2D2D"/>
+ </g>
+</svg>
