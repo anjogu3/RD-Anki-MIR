@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="697">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="133.33333" y="410.09616" id="svg_57" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(1,0,0,1.031243920326233,0,-10.898758145049214) ">Dx</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="824.01564" y="379.66511" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(1,0,0,1.031243920326233,0,-10.898758145049214) " id="svg_58">Dx</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="498.1823" y="431.38259" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(1,0,0,1.031243920326233,0,-10.898758145049214) " id="svg_59">Dx</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="424.39627" y="359.25104" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6864529848098754,0,0,0.8169790006651495,492.27006063051516,-77.96244667320869) " id="svg_60">Prueba</text>
+  <text fill="#000000" stroke-width="0" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="25.82317" y="290.98974" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.6864529848098754,0,0,0.8169790006651495,492.27006063051516,-77.96244667320869) " id="svg_61">Prueba</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  
+  
+  
+  <rect fill="#FF7E7E" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="191.7029" y="653.8333" width="635.83333" height="37.5" id="cc0d9e48357d4e258f73368e0ce4fc0f-oa-8" class="qshape"/>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="789" height="554">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  <g id="b72acb20d06248408a63e5d5df467795-oa-1">
+   <rect fill="#7f3f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="601.43419" y="305.4555" width="18.83738" height="25.9014" stroke="#2D2D2D"/>
+   <rect fill="#7f3f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="725.05451" y="304.27816" width="18.83738" height="25.9014" stroke="#2D2D2D"/>
+  </g>
+  <g id="b72acb20d06248408a63e5d5df467795-oa-2">
+   <rect fill="#7f3f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="333.0015" y="306.63283" width="105.96027" height="25.9014" stroke="#2D2D2D"/>
+   <rect fill="#7f3f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="554.34072" y="383.15969" width="105.96027" height="25.9014" stroke="#2D2D2D"/>
+  </g>
+  <g id="b72acb20d06248408a63e5d5df467795-oa-3">
+   <rect fill="#7f3f00" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="92.82489" y="221.86462" width="141.28036" height="25.9014"/>
+   <rect fill="#7f3f00" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="38.66743" y="246.58868" width="243.70862" height="25.9014" stroke="#2D2D2D"/>
+  </g>
+  <rect fill="#7f3f00" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="470.74984" y="471.45992" width="156.58573" height="31.78808" id="b72acb20d06248408a63e5d5df467795-oa-4"/>
+  <g id="b72acb20d06248408a63e5d5df467795-oa-5">
+   <rect fill="#7f3f00" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="78.69685" y="151.22444" width="147.16704" height="21.19205"/>
+   <rect fill="#7f3f00" stroke="#2D2D2D" stroke-dasharray="null" stroke-linejoin="null" stroke-linecap="null" x="407.1737" y="153.57912" width="147.16704" height="21.19205"/>
+  </g>
+ </g>
+</svg>

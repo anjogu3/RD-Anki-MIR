@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1201" height="665">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text transform="matrix(0.37266069650650024,0,0,0.2730783522129059,517.182442670688,272.35709675448015) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_7" y="436.79944" x="1496.30192" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Síntomas trigeminoautonómicos</text>
+  <text fill="#000000" stroke-width="0" x="143.44443" y="389.76188" id="svg_12" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve">Clínica</text>
+  <text fill="#000000" stroke-width="0" x="893.43295" y="530.32786" id="svg_15" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5384767651557922,0,0,0.47765523195266724,210.0219170562923,263.26992473285645) ">Tiene algo antes del ataque?</text>
+  <text style="cursor: move;" id="svg_16" fill="#000000" stroke-width="0" x="312.25934" y="533.4565" font-size="24" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" text-anchor="middle" xml:space="preserve" transform="matrix(0.5384767651557922,0,0,0.47765523195266724,210.0219170562923,263.26992473285645) ">Factor constante en la vida del paciente</text>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  
+  <g id="b99f77f4bbcc4e5a9b1620ea15539c57-oa-6" class="qshape">
+   <rect stroke="#2D2D2D" height="24.60317" width="130.95245" y="541.34918" x="864.87307" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="24.60317" width="79.36517" y="540.55553" x="1005.34925" fill="#FF7E7E" class="qshape"/>
+   <rect stroke="#2D2D2D" height="24.60317" width="79.36517" y="540.55553" x="573.60322" fill="#FF7E7E" class="qshape"/>
+  </g>
+  
+ </g>
+</svg>
