@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="756" height="487">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="4463b94ef8d64020a1e401065c90f6c6-oa-1">
+   <rect height="26.16279" width="51.74419" y="48.4651" x="175.39539" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25.5814" width="50.5814" y="47.8837" x="514.34889" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="67.65114" x="383.53493" stroke-width="0" fill="#000000">Cual es más frecuente?</text>
+  </g>
+  <g id="4463b94ef8d64020a1e401065c90f6c6-oa-2">
+   <rect height="23.25581" width="28.48837" y="88.58138" x="178.30236" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="22.09302" width="25.5814" y="90.90696" x="246.90702" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="30.23256" width="118.02326" y="88.58138" x="345.16284" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="22.09302" width="25.5814" y="89.16277" x="559.11635" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="22.09302" width="83.72088" y="89.74417" x="647.48838" fill="#FFEBA2"/>
+  </g>
+  <rect id="4463b94ef8d64020a1e401065c90f6c6-oa-3" height="22.09302" width="200.5814" y="158.93022" x="519.00005" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="4463b94ef8d64020a1e401065c90f6c6-oa-4">
+   <rect height="25.5814" width="112.20931" y="154.27905" x="178.88376" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25" width="66.86047" y="154.27905" x="310.86051" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="4463b94ef8d64020a1e401065c90f6c6-oa-5">
+   <rect height="19.18605" width="27.90698" y="321.72092" x="200.39539" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="24.41861" width="50" y="320.55813" x="521.90702" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" fill="#FFEBA2"/>
+  </g>
+  <g id="4463b94ef8d64020a1e401065c90f6c6-oa-6">
+   <rect height="20.34884" width="113.3721" y="416.48837" x="312.6047" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25" width="91.86047" y="414.74418" x="650.39541" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1022" height="632">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="f7fe1ece3ab04f9abfbb19e0360350cd-oa-1" height="32.5" width="207.50001" y="345.49999" x="310.50004" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f7fe1ece3ab04f9abfbb19e0360350cd-oa-2" height="37.5" width="347.50001" y="432.99999" x="583.00005" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f7fe1ece3ab04f9abfbb19e0360350cd-oa-3" height="25" width="117.5" y="475.49999" x="573.00005" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="f7fe1ece3ab04f9abfbb19e0360350cd-oa-4" height="32.5" width="282.50001" y="507.99999" x="520.50005" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="f7fe1ece3ab04f9abfbb19e0360350cd-oa-5">
+   <rect height="32.5" width="260.00001" y="140.49998" x="103.00003" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="162.99998" x="215.50004" stroke-width="0" fill="#000000">Frecuencia</text>
+  </g>
+ </g>
+</svg>

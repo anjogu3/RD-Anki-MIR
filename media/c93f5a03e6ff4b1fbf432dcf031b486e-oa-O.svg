@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  <rect transform="rotate(-33.02386474609375 110.91548919677734,46.76055908203123) " id="c93f5a03e6ff4b1fbf432dcf031b486e-oa-1" height="11.26761" width="31.69014" y="41.12675" x="95.07042" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="c93f5a03e6ff4b1fbf432dcf031b486e-oa-2" transform="rotate(28.44291114807129 114.08451080322257,102.39436340332033) " height="11.26761" width="31.69014" y="96.76056" x="98.23944" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <text transform="matrix(0.31053292751312256,0,0,0.31591886281967163,328.18632650375366,34.396454678848386) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="c93f5a03e6ff4b1fbf432dcf031b486e-oa-3" y="123.38274" x="18.08906" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">RIESGO DE LESIÓN VISCERAL</text>
+  <g id="c93f5a03e6ff4b1fbf432dcf031b486e-oa-4">
+   <rect height="23.23944" width="88.02817" y="31.2676" x="290.14085" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="28.16901" width="88.02817" y="94.64788" x="288.73239" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>

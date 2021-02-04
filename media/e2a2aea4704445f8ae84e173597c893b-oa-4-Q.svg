@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1227" height="822">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+  <text transform="matrix(0.7373186349868774,0,0,0.6157286763191223,79.6417063549161,211.01299061626196) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="svg_19" y="614.31584" x="297.20026" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Sexo y edad</text>
+ </g>
+ <g display="inline">
+  <title>Masks</title>
+  
+  
+  
+  
+  <g id="e2a2aea4704445f8ae84e173597c893b-oa-4" class="qshape">
+   <rect height="15.46392" width="72.16495" y="618.20615" x="126.60831" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <g class="qshape">
+    <rect height="13.40206" width="109.27836" y="598.61852" x="149.28873" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+    <rect height="16.49485" width="74.22681" y="596.55667" x="273.00007" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   </g>
+  </g>
+ </g>
+</svg>

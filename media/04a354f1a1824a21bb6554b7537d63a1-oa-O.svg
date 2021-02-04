@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="757" height="343">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <g id="04a354f1a1824a21bb6554b7537d63a1-oa-1">
+   <rect height="20.34884" width="113.3721" y="416.48837" x="312.6047" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="25" width="91.86047" y="414.74418" x="650.39541" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="04a354f1a1824a21bb6554b7537d63a1-oa-2">
+   <rect height="16.01732" width="81.81818" y="56.99999" x="99.70993" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="16.45022" width="67.96537" y="56.13419" x="202.74023" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <rect id="04a354f1a1824a21bb6554b7537d63a1-oa-3" height="20.34632" width="56.27706" y="134.05627" x="98.41123" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="04a354f1a1824a21bb6554b7537d63a1-oa-4">
+   <rect height="18.61472" width="178.35497" y="161.76189" x="44.29868" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text transform="matrix(0.5629137754440308,0,0,0.5164812207221985,56.73925552517176,88.26484216097742) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="169.80276" x="127.47667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">pH</text>
+  </g>
+  <g id="04a354f1a1824a21bb6554b7537d63a1-oa-5">
+   <rect height="29.00433" width="110.38961" y="210.67964" x="395.81382" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text transform="matrix(0.5679869055747986,0,0,0.5807064771652222,88.51543292496353,63.28711610287428) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="335.0973" x="630.20686" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">Rx más sugestivo de isquemia intestinal</text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="757" height="343">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  
+  
+  
+  <g id="04a354f1a1824a21bb6554b7537d63a1-oa-4" class="qshape">
+   <rect height="18.61472" width="178.35497" y="161.76189" x="44.29868" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke="#2D2D2D" fill="#FF7E7E" class="qshape"/>
+   <text transform="matrix(0.5629137754440308,0,0,0.5164812207221985,56.73925552517176,88.26484216097742) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="169.80276" x="127.47667" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#000000">pH</text>
+  </g>
+  
+ </g>
+</svg>

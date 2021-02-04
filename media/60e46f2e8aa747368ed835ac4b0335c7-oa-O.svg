@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="755" height="384">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect id="60e46f2e8aa747368ed835ac4b0335c7-oa-1" height="21.55963" width="174.31193" y="184.80734" x="289.4954" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <g id="60e46f2e8aa747368ed835ac4b0335c7-oa-2">
+   <rect height="18.34862" width="67.88991" y="105.44954" x="150.04585" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="19.72477" width="97.70642" y="132.97248" x="150.50457" stroke="#2D2D2D" fill="#FFEBA2"/>
+  </g>
+  <g id="60e46f2e8aa747368ed835ac4b0335c7-oa-3">
+   <rect height="20.6422" width="108.25688" y="51.3211" x="46.37613" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="22.47706" width="209.17431" y="77.92661" x="46.83484" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect height="21.55963" width="84.40367" y="77.00918" x="274.8165" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <text transform="matrix(0.5697821974754333,0,0,0.586267054080963,128.9851716896519,28.682520939968523) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" y="60.95413" x="219.31191" stroke-width="0" fill="#000000">Clásicos del estilo de vida</text>
+  </g>
+ </g>
+</svg>
